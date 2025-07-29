@@ -1,0 +1,1200 @@
+{"text": "The capital of Australia is Canberra.", "label": 1, "entity": "Australia", "predicate": "capital", "object": "Canberra", "domain": "geo"}
+{"text": "The capital of Australia is Sydney.", "label": 0, "entity": "Australia", "predicate": "capital", "object": "Sydney", "domain": "geo"}
+{"text": "The capital of Canada is Ottawa.", "label": 1, "entity": "Canada", "predicate": "capital", "object": "Ottawa", "domain": "geo"}
+{"text": "The capital of Canada is Toronto.", "label": 0, "entity": "Canada", "predicate": "capital", "object": "Toronto", "domain": "geo"}
+{"text": "The capital of Brazil is Brasília.", "label": 1, "entity": "Brazil", "predicate": "capital", "object": "Brasília", "domain": "geo"}
+{"text": "The capital of Brazil is Rio de Janeiro.", "label": 0, "entity": "Brazil", "predicate": "capital", "object": "Rio de Janeiro", "domain": "geo"}
+{"text": "The highest mountain in the world is Mount Everest.", "label": 1, "entity": "World", "predicate": "highest_mountain", "object": "Mount Everest", "domain": "geo"}
+{"text": "The highest mountain in the world is K2.", "label": 0, "entity": "World", "predicate": "highest_mountain", "object": "K2", "domain": "geo"}
+{"text": "The longest river in South America is the Amazon River.", "label": 1, "entity": "South America", "predicate": "longest_river", "object": "Amazon River", "domain": "geo"}
+{"text": "The longest river in South America is the Paraná River.", "label": 0, "entity": "South America", "predicate": "longest_river", "object": "Paraná River", "domain": "geo"}
+{"text": "The capital of Egypt is Cairo.", "label": 1, "entity": "Egypt", "predicate": "capital", "object": "Cairo", "domain": "geo"}
+{"text": "The capital of Egypt is Alexandria.", "label": 0, "entity": "Egypt", "predicate": "capital", "object": "Alexandria", "domain": "geo"}
+{"text": "The capital of Japan is Tokyo.", "label": 1, "entity": "Japan", "predicate": "capital", "object": "Tokyo", "domain": "geo"}
+{"text": "The capital of Japan is Kyoto.", "label": 0, "entity": "Japan", "predicate": "capital", "object": "Kyoto", "domain": "geo"}
+{"text": "The capital of France is Paris.", "label": 1, "entity": "France", "predicate": "capital", "object": "Paris", "domain": "geo"}
+{"text": "The capital of France is Lyon.", "label": 0, "entity": "France", "predicate": "capital", "object": "Lyon", "domain": "geo"}
+{"text": "The capital of Germany is Berlin.", "label": 1, "entity": "Germany", "predicate": "capital", "object": "Berlin", "domain": "geo"}
+{"text": "The capital of Germany is Munich.", "label": 0, "entity": "Germany", "predicate": "capital", "object": "Munich", "domain": "geo"}
+{"text": "The capital of India is New Delhi.", "label": 1, "entity": "India", "predicate": "capital", "object": "New Delhi", "domain": "geo"}
+{"text": "The capital of India is Mumbai.", "label": 0, "entity": "India", "predicate": "capital", "object": "Mumbai", "domain": "geo"}
+{"text": "The capital of China is Beijing.", "label": 1, "entity": "China", "predicate": "capital", "object": "Beijing", "domain": "geo"}
+{"text": "The capital of China is Shanghai.", "label": 0, "entity": "China", "predicate": "capital", "object": "Shanghai", "domain": "geo"}
+{"text": "The capital of Russia is Moscow.", "label": 1, "entity": "Russia", "predicate": "capital", "object": "Moscow", "domain": "geo"}
+{"text": "The capital of Russia is St. Petersburg.", "label": 0, "entity": "Russia", "predicate": "capital", "object": "St. Petersburg", "domain": "geo"}
+{"text": "The capital of Mexico is Mexico City.", "label": 1, "entity": "Mexico", "predicate": "capital", "object": "Mexico City", "domain": "geo"}
+{"text": "The capital of Mexico is Guadalajara.", "label": 0, "entity": "Mexico", "predicate": "capital", "object": "Guadalajara", "domain": "geo"}
+{"text": "The capital of Argentina is Buenos Aires.", "label": 1, "entity": "Argentina", "predicate": "capital", "object": "Buenos Aires", "domain": "geo"}
+{"text": "The capital of Argentina is Córdoba.", "label": 0, "entity": "Argentina", "predicate": "capital", "object": "Córdoba", "domain": "geo"}
+{"text": "The capital of South Korea is Seoul.", "label": 1, "entity": "South Korea", "predicate": "capital", "object": "Seoul", "domain": "geo"}
+{"text": "The capital of South Korea is Busan.", "label": 0, "entity": "South Korea", "predicate": "capital", "object": "Busan", "domain": "geo"}
+{"text": "The capital of Italy is Rome.", "label": 1, "entity": "Italy", "predicate": "capital", "object": "Rome", "domain": "geo"}
+{"text": "The capital of Italy is Milan.", "label": 0, "entity": "Italy", "predicate": "capital", "object": "Milan", "domain": "geo"}
+{"text": "The capital of Spain is Madrid.", "label": 1, "entity": "Spain", "predicate": "capital", "object": "Madrid", "domain": "geo"}
+{"text": "The capital of Spain is Barcelona.", "label": 0, "entity": "Spain", "predicate": "capital", "object": "Barcelona", "domain": "geo"}
+{"text": "The capital of Turkey is Ankara.", "label": 1, "entity": "Turkey", "predicate": "capital", "object": "Ankara", "domain": "geo"}
+{"text": "The capital of Turkey is Istanbul.", "label": 0, "entity": "Turkey", "predicate": "capital", "object": "Istanbul", "domain": "geo"}
+{"text": "The capital of Saudi Arabia is Riyadh.", "label": 1, "entity": "Saudi Arabia", "predicate": "capital", "object": "Riyadh", "domain": "geo"}
+{"text": "The capital of Saudi Arabia is Jeddah.", "label": 0, "entity": "Saudi Arabia", "predicate": "capital", "object": "Jeddah", "domain": "geo"}
+{"text": "The capital of Iran is Tehran.", "label": 1, "entity": "Iran", "predicate": "capital", "object": "Tehran", "domain": "geo"}
+{"text": "The capital of Iran is Isfahan.", "label": 0, "entity": "Iran", "predicate": "capital", "object": "Isfahan", "domain": "geo"}
+{"text": "The capital of Thailand is Bangkok.", "label": 1, "entity": "Thailand", "predicate": "capital", "object": "Bangkok", "domain": "geo"}
+{"text": "The capital of Thailand is Chiang Mai.", "label": 0, "entity": "Thailand", "predicate": "capital", "object": "Chiang Mai", "domain": "geo"}
+{"text": "The capital of Vietnam is Hanoi.", "label": 1, "entity": "Vietnam", "predicate": "capital", "object": "Hanoi", "domain": "geo"}
+{"text": "The capital of Vietnam is Ho Chi Minh City.", "label": 0, "entity": "Vietnam", "predicate": "capital", "object": "Ho Chi Minh City", "domain": "geo"}
+{"text": "The capital of Philippines is Manila.", "label": 1, "entity": "Philippines", "predicate": "capital", "object": "Manila", "domain": "geo"}
+{"text": "The capital of Philippines is Cebu City.", "label": 0, "entity": "Philippines", "predicate": "capital", "object": "Cebu City", "domain": "geo"}
+{"text": "The capital of Indonesia is Jakarta.", "label": 1, "entity": "Indonesia", "predicate": "capital", "object": "Jakarta", "domain": "geo"}
+{"text": "The capital of Indonesia is Surabaya.", "label": 0, "entity": "Indonesia", "predicate": "capital", "object": "Surabaya", "domain": "geo"}
+{"text": "The capital of Pakistan is Islamabad.", "label": 1, "entity": "Pakistan", "predicate": "capital", "object": "Islamabad", "domain": "geo"}
+{"text": "The capital of Pakistan is Karachi.", "label": 0, "entity": "Pakistan", "predicate": "capital", "object": "Karachi", "domain": "geo"}
+{"text": "The capital of Bangladesh is Dhaka.", "label": 1, "entity": "Bangladesh", "predicate": "capital", "object": "Dhaka", "domain": "geo"}
+{"text": "The capital of Bangladesh is Chittagong.", "label": 0, "entity": "Bangladesh", "predicate": "capital", "object": "Chittagong", "domain": "geo"}
+{"text": "The capital of Nigeria is Abuja.", "label": 1, "entity": "Nigeria", "predicate": "capital", "object": "Abuja", "domain": "geo"}
+{"text": "The capital of Nigeria is Lagos.", "label": 0, "entity": "Nigeria", "predicate": "capital", "object": "Lagos", "domain": "geo"}
+{"text": "The capital of South Africa is Pretoria.", "label": 1, "entity": "South Africa", "predicate": "capital", "object": "Pretoria", "domain": "geo"}
+{"text": "The capital of South Africa is Johannesburg.", "label": 0, "entity": "South Africa", "predicate": "capital", "object": "Johannesburg", "domain": "geo"}
+{"text": "The capital of Kenya is Nairobi.", "label": 1, "entity": "Kenya", "predicate": "capital", "object": "Nairobi", "domain": "geo"}
+{"text": "The capital of Kenya is Mombasa.", "label": 0, "entity": "Kenya", "predicate": "capital", "object": "Mombasa", "domain": "geo"}
+{"text": "The capital of Ethiopia is Addis Ababa.", "label": 1, "entity": "Ethiopia", "predicate": "capital", "object": "Addis Ababa", "domain": "geo"}
+{"text": "The capital of Ethiopia is Dire Dawa.", "label": 0, "entity": "Ethiopia", "predicate": "capital", "object": "Dire Dawa", "domain": "geo"}
+{"text": "The capital of Morocco is Rabat.", "label": 1, "entity": "Morocco", "predicate": "capital", "object": "Rabat", "domain": "geo"}
+{"text": "The capital of Morocco is Casablanca.", "label": 0, "entity": "Morocco", "predicate": "capital", "object": "Casablanca", "domain": "geo"}
+{"text": "The capital of Chile is Santiago.", "label": 1, "entity": "Chile", "predicate": "capital", "object": "Santiago", "domain": "geo"}
+{"text": "The capital of Chile is Valparaíso.", "label": 0, "entity": "Chile", "predicate": "capital", "object": "Valparaíso", "domain": "geo"}
+{"text": "The capital of Peru is Lima.", "label": 1, "entity": "Peru", "predicate": "capital", "object": "Lima", "domain": "geo"}
+{"text": "The capital of Peru is Cusco.", "label": 0, "entity": "Peru", "predicate": "capital", "object": "Cusco", "domain": "geo"}
+{"text": "The capital of Colombia is Bogotá.", "label": 1, "entity": "Colombia", "predicate": "capital", "object": "Bogotá", "domain": "geo"}
+{"text": "The capital of Colombia is Medellín.", "label": 0, "entity": "Colombia", "predicate": "capital", "object": "Medellín", "domain": "geo"}
+{"text": "The capital of Venezuela is Caracas.", "label": 1, "entity": "Venezuela", "predicate": "capital", "object": "Caracas", "domain": "geo"}
+{"text": "The capital of Venezuela is Maracaibo.", "label": 0, "entity": "Venezuela", "predicate": "capital", "object": "Maracaibo", "domain": "geo"}
+{"text": "The capital of Poland is Warsaw.", "label": 1, "entity": "Poland", "predicate": "capital", "object": "Warsaw", "domain": "geo"}
+{"text": "The capital of Poland is Kraków.", "label": 0, "entity": "Poland", "predicate": "capital", "object": "Kraków", "domain": "geo"}
+{"text": "The capital of Ukraine is Kyiv.", "label": 1, "entity": "Ukraine", "predicate": "capital", "object": "Kyiv", "domain": "geo"}
+{"text": "The capital of Ukraine is Odesa.", "label": 0, "entity": "Ukraine", "predicate": "capital", "object": "Odesa", "domain": "geo"}
+{"text": "The capital of Romania is Bucharest.", "label": 1, "entity": "Romania", "predicate": "capital", "object": "Bucharest", "domain": "geo"}
+{"text": "The capital of Romania is Cluj-Napoca.", "label": 0, "entity": "Romania", "predicate": "capital", "object": "Cluj-Napoca", "domain": "geo"}
+{"text": "The capital of Netherlands is Amsterdam.", "label": 1, "entity": "Netherlands", "predicate": "capital", "object": "Amsterdam", "domain": "geo"}
+{"text": "The capital of Netherlands is Rotterdam.", "label": 0, "entity": "Netherlands", "predicate": "capital", "object": "Rotterdam", "domain": "geo"}
+{"text": "The capital of Belgium is Brussels.", "label": 1, "entity": "Belgium", "predicate": "capital", "object": "Brussels", "domain": "geo"}
+{"text": "The capital of Belgium is Antwerp.", "label": 0, "entity": "Belgium", "predicate": "capital", "object": "Antwerp", "domain": "geo"}
+{"text": "The capital of Switzerland is Bern.", "label": 1, "entity": "Switzerland", "predicate": "capital", "object": "Bern", "domain": "geo"}
+{"text": "The capital of Switzerland is Zurich.", "label": 0, "entity": "Switzerland", "predicate": "capital", "object": "Zurich", "domain": "geo"}
+{"text": "The capital of Austria is Vienna.", "label": 1, "entity": "Austria", "predicate": "capital", "object": "Vienna", "domain": "geo"}
+{"text": "The capital of Austria is Salzburg.", "label": 0, "entity": "Austria", "predicate": "capital", "object": "Salzburg", "domain": "geo"}
+{"text": "The capital of Czech Republic is Prague.", "label": 1, "entity": "Czech Republic", "predicate": "capital", "object": "Prague", "domain": "geo"}
+{"text": "The capital of Czech Republic is Brno.", "label": 0, "entity": "Czech Republic", "predicate": "capital", "object": "Brno", "domain": "geo"}
+{"text": "The capital of Hungary is Budapest.", "label": 1, "entity": "Hungary", "predicate": "capital", "object": "Budapest", "domain": "geo"}
+{"text": "The capital of Hungary is Debrecen.", "label": 0, "entity": "Hungary", "predicate": "capital", "object": "Debrecen", "domain": "geo"}
+{"text": "The capital of Greece is Athens.", "label": 1, "entity": "Greece", "predicate": "capital", "object": "Athens", "domain": "geo"}
+{"text": "The capital of Greece is Thessaloniki.", "label": 0, "entity": "Greece", "predicate": "capital", "object": "Thessaloniki", "domain": "geo"}
+{"text": "The capital of Portugal is Lisbon.", "label": 1, "entity": "Portugal", "predicate": "capital", "object": "Lisbon", "domain": "geo"}
+{"text": "The capital of Portugal is Porto.", "label": 0, "entity": "Portugal", "predicate": "capital", "object": "Porto", "domain": "geo"}
+{"text": "The capital of Sweden is Stockholm.", "label": 1, "entity": "Sweden", "predicate": "capital", "object": "Stockholm", "domain": "geo"}
+{"text": "The capital of Sweden is Gothenburg.", "label": 0, "entity": "Sweden", "predicate": "capital", "object": "Gothenburg", "domain": "geo"}
+{"text": "The capital of Norway is Oslo.", "label": 1, "entity": "Norway", "predicate": "capital", "object": "Oslo", "domain": "geo"}
+{"text": "The capital of Norway is Bergen.", "label": 0, "entity": "Norway", "predicate": "capital", "object": "Bergen", "domain": "geo"}
+{"text": "The capital of Denmark is Copenhagen.", "label": 1, "entity": "Denmark", "predicate": "capital", "object": "Copenhagen", "domain": "geo"}
+{"text": "The capital of Denmark is Aarhus.", "label": 0, "entity": "Denmark", "predicate": "capital", "object": "Aarhus", "domain": "geo"}
+{"text": "The capital of Finland is Helsinki.", "label": 1, "entity": "Finland", "predicate": "capital", "object": "Helsinki", "domain": "geo"}
+{"text": "The capital of Finland is Tampere.", "label": 0, "entity": "Finland", "predicate": "capital", "object": "Tampere", "domain": "geo"}
+{"text": "The largest ocean is the Pacific Ocean.", "label": 1, "entity": "World", "predicate": "largest_ocean", "object": "Pacific Ocean", "domain": "geo"}
+{"text": "The largest ocean is the Atlantic Ocean.", "label": 0, "entity": "World", "predicate": "largest_ocean", "object": "Atlantic Ocean", "domain": "geo"}
+{"text": "The longest river in the world is the Nile River.", "label": 1, "entity": "World", "predicate": "longest_river", "object": "Nile River", "domain": "geo"}
+{"text": "The longest river in the world is the Amazon River.", "label": 0, "entity": "World", "predicate": "longest_river", "object": "Amazon River", "domain": "geo"}
+{"text": "The largest desert is the Antarctic Desert.", "label": 1, "entity": "World", "predicate": "largest_desert", "object": "Antarctic Desert", "domain": "geo"}
+{"text": "The largest desert is the Sahara Desert.", "label": 0, "entity": "World", "predicate": "largest_desert", "object": "Sahara Desert", "domain": "geo"}
+{"text": "The deepest ocean trench is the Mariana Trench.", "label": 1, "entity": "World", "predicate": "deepest_ocean_trench", "object": "Mariana Trench", "domain": "geo"}
+{"text": "The deepest ocean trench is the Puerto Rico Trench.", "label": 0, "entity": "World", "predicate": "deepest_ocean_trench", "object": "Puerto Rico Trench", "domain": "geo"}
+{"text": "The largest island is Greenland.", "label": 1, "entity": "World", "predicate": "largest_island", "object": "Greenland", "domain": "geo"}
+{"text": "The largest island is Australia.", "label": 0, "entity": "World", "predicate": "largest_island", "object": "Australia", "domain": "geo"}
+{"text": "The highest waterfall is Angel Falls.", "label": 1, "entity": "World", "predicate": "highest_waterfall", "object": "Angel Falls", "domain": "geo"}
+{"text": "The highest waterfall is Niagara Falls.", "label": 0, "entity": "World", "predicate": "highest_waterfall", "object": "Niagara Falls", "domain": "geo"}
+{"text": "The largest lake by surface area is the Caspian Sea.", "label": 1, "entity": "World", "predicate": "largest_lake", "object": "Caspian Sea", "domain": "geo"}
+{"text": "The largest lake by surface area is Lake Superior.", "label": 0, "entity": "World", "predicate": "largest_lake", "object": "Lake Superior", "domain": "geo"}
+{"text": "The longest mountain range is the Andes.", "label": 1, "entity": "World", "predicate": "longest_mountain_range", "object": "Andes", "domain": "geo"}
+{"text": "The longest mountain range is the Himalayas.", "label": 0, "entity": "World", "predicate": "longest_mountain_range", "object": "Himalayas", "domain": "geo"}
+{"text": "The largest country by area is Russia.", "label": 1, "entity": "World", "predicate": "largest_country", "object": "Russia", "domain": "geo"}
+{"text": "The largest country by area is Canada.", "label": 0, "entity": "World", "predicate": "largest_country", "object": "Canada", "domain": "geo"}
+{"text": "The smallest country is Vatican City.", "label": 1, "entity": "World", "predicate": "smallest_country", "object": "Vatican City", "domain": "geo"}
+{"text": "The smallest country is Monaco.", "label": 0, "entity": "World", "predicate": "smallest_country", "object": "Monaco", "domain": "geo"}
+{"text": "Albert Einstein was born in 1879.", "label": 1, "entity": "Albert Einstein", "predicate": "birth_year", "object": "1879", "domain": "bio"}
+{"text": "Albert Einstein was born in 1878.", "label": 0, "entity": "Albert Einstein", "predicate": "birth_year", "object": "1878", "domain": "bio"}
+{"text": "Marie Curie was born in Warsaw.", "label": 1, "entity": "Marie Curie", "predicate": "birthplace", "object": "Warsaw", "domain": "bio"}
+{"text": "Marie Curie was born in Paris.", "label": 0, "entity": "Marie Curie", "predicate": "birthplace", "object": "Paris", "domain": "bio"}
+{"text": "Ada Lovelace's father was Lord Byron.", "label": 1, "entity": "Ada Lovelace", "predicate": "father", "object": "Lord Byron", "domain": "bio"}
+{"text": "Ada Lovelace's father was Charles Babbage.", "label": 0, "entity": "Ada Lovelace", "predicate": "father", "object": "Charles Babbage", "domain": "bio"}
+{"text": "Leonardo da Vinci painted the Mona Lisa.", "label": 1, "entity": "Leonardo da Vinci", "predicate": "painted", "object": "Mona Lisa", "domain": "bio"}
+{"text": "Leonardo da Vinci painted Starry Night.", "label": 0, "entity": "Leonardo da Vinci", "predicate": "painted", "object": "Starry Night", "domain": "bio"}
+{"text": "Nelson Mandela served as President of South Africa.", "label": 1, "entity": "Nelson Mandela", "predicate": "position", "object": "President of South Africa", "domain": "bio"}
+{"text": "Nelson Mandela served as Prime Minister of South Africa.", "label": 0, "entity": "Nelson Mandela", "predicate": "position", "object": "Prime Minister of South Africa", "domain": "bio"}
+{"text": "Charles Darwin wrote On the Origin of Species.", "label": 1, "entity": "Charles Darwin", "predicate": "wrote", "object": "On the Origin of Species", "domain": "bio"}
+{"text": "Charles Darwin wrote The Descent of Man first.", "label": 0, "entity": "Charles Darwin", "predicate": "wrote", "object": "The Descent of Man first", "domain": "bio"}
+{"text": "Isaac Newton formulated the laws of motion.", "label": 1, "entity": "Isaac Newton", "predicate": "formulated", "object": "laws of motion", "domain": "bio"}
+{"text": "Isaac Newton formulated the theory of relativity.", "label": 0, "entity": "Isaac Newton", "predicate": "formulated", "object": "theory of relativity", "domain": "bio"}
+{"text": "William Shakespeare was born in Stratford-upon-Avon.", "label": 1, "entity": "William Shakespeare", "predicate": "birthplace", "object": "Stratford-upon-Avon", "domain": "bio"}
+{"text": "William Shakespeare was born in London.", "label": 0, "entity": "William Shakespeare", "predicate": "birthplace", "object": "London", "domain": "bio"}
+{"text": "Vincent van Gogh painted The Starry Night.", "label": 1, "entity": "Vincent van Gogh", "predicate": "painted", "object": "The Starry Night", "domain": "bio"}
+{"text": "Vincent van Gogh painted The Scream.", "label": 0, "entity": "Vincent van Gogh", "predicate": "painted", "object": "The Scream", "domain": "bio"}
+{"text": "Pablo Picasso co-founded Cubism.", "label": 1, "entity": "Pablo Picasso", "predicate": "co-founded", "object": "Cubism", "domain": "bio"}
+{"text": "Pablo Picasso co-founded Impressionism.", "label": 0, "entity": "Pablo Picasso", "predicate": "co-founded", "object": "Impressionism", "domain": "bio"}
+{"text": "Galileo Galilei discovered Jupiter's moons.", "label": 1, "entity": "Galileo Galilei", "predicate": "discovered", "object": "Jupiter's moons", "domain": "bio"}
+{"text": "Galileo Galilei discovered Saturn's rings.", "label": 0, "entity": "Galileo Galilei", "predicate": "discovered", "object": "Saturn's rings", "domain": "bio"}
+{"text": "Alexander Fleming discovered penicillin.", "label": 1, "entity": "Alexander Fleming", "predicate": "discovered", "object": "penicillin", "domain": "bio"}
+{"text": "Alexander Fleming discovered insulin.", "label": 0, "entity": "Alexander Fleming", "predicate": "discovered", "object": "insulin", "domain": "bio"}
+{"text": "Thomas Edison invented the phonograph.", "label": 1, "entity": "Thomas Edison", "predicate": "invented", "object": "phonograph", "domain": "bio"}
+{"text": "Thomas Edison invented the telephone.", "label": 0, "entity": "Thomas Edison", "predicate": "invented", "object": "telephone", "domain": "bio"}
+{"text": "Alexander Graham Bell invented the telephone.", "label": 1, "entity": "Alexander Graham Bell", "predicate": "invented", "object": "telephone", "domain": "bio"}
+{"text": "Alexander Graham Bell invented the light bulb.", "label": 0, "entity": "Alexander Graham Bell", "predicate": "invented", "object": "light bulb", "domain": "bio"}
+{"text": "Wright brothers achieved first powered flight.", "label": 1, "entity": "Wright brothers", "predicate": "achieved", "object": "first powered flight", "domain": "bio"}
+{"text": "Wright brothers invented the helicopter.", "label": 0, "entity": "Wright brothers", "predicate": "invented", "object": "helicopter", "domain": "bio"}
+{"text": "Nikola Tesla developed AC electrical systems.", "label": 1, "entity": "Nikola Tesla", "predicate": "developed", "object": "AC electrical systems", "domain": "bio"}
+{"text": "Nikola Tesla developed DC electrical systems.", "label": 0, "entity": "Nikola Tesla", "predicate": "developed", "object": "DC electrical systems", "domain": "bio"}
+{"text": "Alan Turing created the Turing machine concept.", "label": 1, "entity": "Alan Turing", "predicate": "created", "object": "Turing machine concept", "domain": "bio"}
+{"text": "Alan Turing invented the first computer.", "label": 0, "entity": "Alan Turing", "predicate": "invented", "object": "first computer", "domain": "bio"}
+{"text": "Tim Berners-Lee invented the World Wide Web.", "label": 1, "entity": "Tim Berners-Lee", "predicate": "invented", "object": "World Wide Web", "domain": "bio"}
+{"text": "Tim Berners-Lee invented the internet.", "label": 0, "entity": "Tim Berners-Lee", "predicate": "invented", "object": "internet", "domain": "bio"}
+{"text": "Steve Jobs co-founded Apple Inc.", "label": 1, "entity": "Steve Jobs", "predicate": "co-founded", "object": "Apple Inc.", "domain": "bio"}
+{"text": "Steve Jobs founded Microsoft.", "label": 0, "entity": "Steve Jobs", "predicate": "founded", "object": "Microsoft", "domain": "bio"}
+{"text": "Bill Gates co-founded Microsoft.", "label": 1, "entity": "Bill Gates", "predicate": "co-founded", "object": "Microsoft", "domain": "bio"}
+{"text": "Bill Gates founded Apple Inc.", "label": 0, "entity": "Bill Gates", "predicate": "founded", "object": "Apple Inc.", "domain": "bio"}
+{"text": "Mark Zuckerberg founded Facebook.", "label": 1, "entity": "Mark Zuckerberg", "predicate": "founded", "object": "Facebook", "domain": "bio"}
+{"text": "Mark Zuckerberg founded Twitter.", "label": 0, "entity": "Mark Zuckerberg", "predicate": "founded", "object": "Twitter", "domain": "bio"}
+{"text": "Jeff Bezos founded Amazon.", "label": 1, "entity": "Jeff Bezos", "predicate": "founded", "object": "Amazon", "domain": "bio"}
+{"text": "Jeff Bezos founded Google.", "label": 0, "entity": "Jeff Bezos", "predicate": "founded", "object": "Google", "domain": "bio"}
+{"text": "Larry Page co-founded Google.", "label": 1, "entity": "Larry Page", "predicate": "co-founded", "object": "Google", "domain": "bio"}
+{"text": "Larry Page founded Amazon.", "label": 0, "entity": "Larry Page", "predicate": "founded", "object": "Amazon", "domain": "bio"}
+{"text": "Elon Musk founded SpaceX.", "label": 1, "entity": "Elon Musk", "predicate": "founded", "object": "SpaceX", "domain": "bio"}
+{"text": "Elon Musk founded Blue Origin.", "label": 0, "entity": "Elon Musk", "predicate": "founded", "object": "Blue Origin", "domain": "bio"}
+{"text": "Walt Disney created Mickey Mouse.", "label": 1, "entity": "Walt Disney", "predicate": "created", "object": "Mickey Mouse", "domain": "bio"}
+{"text": "Walt Disney created Bugs Bunny.", "label": 0, "entity": "Walt Disney", "predicate": "created", "object": "Bugs Bunny", "domain": "bio"}
+{"text": "J.K. Rowling wrote Harry Potter series.", "label": 1, "entity": "J.K. Rowling", "predicate": "wrote", "object": "Harry Potter series", "domain": "bio"}
+{"text": "J.K. Rowling wrote Lord of the Rings.", "label": 0, "entity": "J.K. Rowling", "predicate": "wrote", "object": "Lord of the Rings", "domain": "bio"}
+{"text": "J.R.R. Tolkien wrote Lord of the Rings.", "label": 1, "entity": "J.R.R. Tolkien", "predicate": "wrote", "object": "Lord of the Rings", "domain": "bio"}
+{"text": "J.R.R. Tolkien wrote Harry Potter.", "label": 0, "entity": "J.R.R. Tolkien", "predicate": "wrote", "object": "Harry Potter", "domain": "bio"}
+{"text": "George Orwell wrote 1984.", "label": 1, "entity": "George Orwell", "predicate": "wrote", "object": "1984", "domain": "bio"}
+{"text": "George Orwell wrote Brave New World.", "label": 0, "entity": "George Orwell", "predicate": "wrote", "object": "Brave New World", "domain": "bio"}
+{"text": "Agatha Christie wrote Murder on the Orient Express.", "label": 1, "entity": "Agatha Christie", "predicate": "wrote", "object": "Murder on the Orient Express", "domain": "bio"}
+{"text": "Agatha Christie wrote Sherlock Holmes.", "label": 0, "entity": "Agatha Christie", "predicate": "wrote", "object": "Sherlock Holmes", "domain": "bio"}
+{"text": "Arthur Conan Doyle created Sherlock Holmes.", "label": 1, "entity": "Arthur Conan Doyle", "predicate": "created", "object": "Sherlock Holmes", "domain": "bio"}
+{"text": "Arthur Conan Doyle created Hercule Poirot.", "label": 0, "entity": "Arthur Conan Doyle", "predicate": "created", "object": "Hercule Poirot", "domain": "bio"}
+{"text": "Ernest Hemingway wrote The Old Man and the Sea.", "label": 1, "entity": "Ernest Hemingway", "predicate": "wrote", "object": "The Old Man and the Sea", "domain": "bio"}
+{"text": "Ernest Hemingway wrote The Great Gatsby.", "label": 0, "entity": "Ernest Hemingway", "predicate": "wrote", "object": "The Great Gatsby", "domain": "bio"}
+{"text": "F. Scott Fitzgerald wrote The Great Gatsby.", "label": 1, "entity": "F. Scott Fitzgerald", "predicate": "wrote", "object": "The Great Gatsby", "domain": "bio"}
+{"text": "F. Scott Fitzgerald wrote For Whom the Bell Tolls.", "label": 0, "entity": "F. Scott Fitzgerald", "predicate": "wrote", "object": "For Whom the Bell Tolls", "domain": "bio"}
+{"text": "Stephen King wrote The Shining.", "label": 1, "entity": "Stephen King", "predicate": "wrote", "object": "The Shining", "domain": "bio"}
+{"text": "Stephen King wrote The Silence of the Lambs.", "label": 0, "entity": "Stephen King", "predicate": "wrote", "object": "The Silence of the Lambs", "domain": "bio"}
+{"text": "Maya Angelou wrote I Know Why the Caged Bird Sings.", "label": 1, "entity": "Maya Angelou", "predicate": "wrote", "object": "I Know Why the Caged Bird Sings", "domain": "bio"}
+{"text": "Maya Angelou wrote The Color Purple.", "label": 0, "entity": "Maya Angelou", "predicate": "wrote", "object": "The Color Purple", "domain": "bio"}
+{"text": "Martin Luther King Jr. delivered the I Have a Dream speech.", "label": 1, "entity": "Martin Luther King Jr.", "predicate": "delivered", "object": "I Have a Dream speech", "domain": "bio"}
+{"text": "Martin Luther King Jr. was the first U.S. President.", "label": 0, "entity": "Martin Luther King Jr.", "predicate": "was", "object": "first U.S. President", "domain": "bio"}
+{"text": "George Washington was the first U.S. President.", "label": 1, "entity": "George Washington", "predicate": "was", "object": "first U.S. President", "domain": "bio"}
+{"text": "George Washington wrote the Declaration of Independence.", "label": 0, "entity": "George Washington", "predicate": "wrote", "object": "Declaration of Independence", "domain": "bio"}
+{"text": "Thomas Jefferson wrote the Declaration of Independence.", "label": 1, "entity": "Thomas Jefferson", "predicate": "wrote", "object": "Declaration of Independence", "domain": "bio"}
+{"text": "Thomas Jefferson was the first U.S. President.", "label": 0, "entity": "Thomas Jefferson", "predicate": "was", "object": "first U.S. President", "domain": "bio"}
+{"text": "Abraham Lincoln was the 16th U.S. President.", "label": 1, "entity": "Abraham Lincoln", "predicate": "was", "object": "16th U.S. President", "domain": "bio"}
+{"text": "Abraham Lincoln was the 15th U.S. President.", "label": 0, "entity": "Abraham Lincoln", "predicate": "was", "object": "15th U.S. President", "domain": "bio"}
+{"text": "Franklin D. Roosevelt served four terms as President.", "label": 1, "entity": "Franklin D. Roosevelt", "predicate": "served", "object": "four terms as President", "domain": "bio"}
+{"text": "Franklin D. Roosevelt served three terms as President.", "label": 0, "entity": "Franklin D. Roosevelt", "predicate": "served", "object": "three terms as President", "domain": "bio"}
+{"text": "Winston Churchill was Prime Minister during WWII.", "label": 1, "entity": "Winston Churchill", "predicate": "was", "object": "Prime Minister during WWII", "domain": "bio"}
+{"text": "Winston Churchill was President during WWII.", "label": 0, "entity": "Winston Churchill", "predicate": "was", "object": "President during WWII", "domain": "bio"}
+{"text": "Mahatma Gandhi led India's independence movement.", "label": 1, "entity": "Mahatma Gandhi", "predicate": "led", "object": "India's independence movement", "domain": "bio"}
+{"text": "Mahatma Gandhi was India's first Prime Minister.", "label": 0, "entity": "Mahatma Gandhi", "predicate": "was", "object": "India's first Prime Minister", "domain": "bio"}
+{"text": "Mother Teresa worked in Calcutta.", "label": 1, "entity": "Mother Teresa", "predicate": "worked in", "object": "Calcutta", "domain": "bio"}
+{"text": "Mother Teresa worked in Delhi.", "label": 0, "entity": "Mother Teresa", "predicate": "worked in", "object": "Delhi", "domain": "bio"}
+{"text": "Rosa Parks refused to give up her bus seat.", "label": 1, "entity": "Rosa Parks", "predicate": "refused", "object": "to give up her bus seat", "domain": "bio"}
+{"text": "Rosa Parks drove the bus.", "label": 0, "entity": "Rosa Parks", "predicate": "drove", "object": "the bus", "domain": "bio"}
+{"text": "Neil Armstrong was the first person on the Moon.", "label": 1, "entity": "Neil Armstrong", "predicate": "was", "object": "first person on the Moon", "domain": "bio"}
+{"text": "Neil Armstrong was the second person on the Moon.", "label": 0, "entity": "Neil Armstrong", "predicate": "was", "object": "second person on the Moon", "domain": "bio"}
+{"text": "Buzz Aldrin was the second person on the Moon.", "label": 1, "entity": "Buzz Aldrin", "predicate": "was", "object": "second person on the Moon", "domain": "bio"}
+{"text": "Buzz Aldrin was the first person on the Moon.", "label": 0, "entity": "Buzz Aldrin", "predicate": "was", "object": "first person on the Moon", "domain": "bio"}
+{"text": "Yuri Gagarin was the first human in space.", "label": 1, "entity": "Yuri Gagarin", "predicate": "was", "object": "first human in space", "domain": "bio"}
+{"text": "Yuri Gagarin was the first person on the Moon.", "label": 0, "entity": "Yuri Gagarin", "predicate": "was", "object": "first person on the Moon", "domain": "bio"}
+{"text": "Amelia Earhart was the first woman to fly solo across the Atlantic.", "label": 1, "entity": "Amelia Earhart", "predicate": "was", "object": "first woman to fly solo across the Atlantic", "domain": "bio"}
+{"text": "Amelia Earhart was the first woman in space.", "label": 0, "entity": "Amelia Earhart", "predicate": "was", "object": "first woman in space", "domain": "bio"}
+{"text": "Sally Ride was the first American woman in space.", "label": 1, "entity": "Sally Ride", "predicate": "was", "object": "first American woman in space", "domain": "bio"}
+{"text": "Sally Ride was the first woman in space.", "label": 0, "entity": "Sally Ride", "predicate": "was", "object": "first woman in space", "domain": "bio"}
+{"text": "Valentina Tereshkova was the first woman in space.", "label": 1, "entity": "Valentina Tereshkova", "predicate": "was", "object": "first woman in space", "domain": "bio"}
+{"text": "Valentina Tereshkova was the first American woman in space.", "label": 0, "entity": "Valentina Tereshkova", "predicate": "was", "object": "first American woman in space", "domain": "bio"}
+{"text": "Humans first landed on the Moon in 1969.", "label": 1, "entity": "Moon landing", "predicate": "year", "object": "1969", "domain": "date"}
+{"text": "Humans first landed on the Moon in 1968.", "label": 0, "entity": "Moon landing", "predicate": "year", "object": "1968", "domain": "date"}
+{"text": "The Berlin Wall fell in 1989.", "label": 1, "entity": "Berlin Wall", "predicate": "fell_year", "object": "1989", "domain": "date"}
+{"text": "The Berlin Wall fell in 1991.", "label": 0, "entity": "Berlin Wall", "predicate": "fell_year", "object": "1991", "domain": "date"}
+{"text": "The United States declared independence in 1776.", "label": 1, "entity": "United States", "predicate": "independence_year", "object": "1776", "domain": "date"}
+{"text": "The United States declared independence in 1775.", "label": 0, "entity": "United States", "predicate": "independence_year", "object": "1775", "domain": "date"}
+{"text": "The first iPhone was released in 2007.", "label": 1, "entity": "iPhone", "predicate": "release_year", "object": "2007", "domain": "date"}
+{"text": "The first iPhone was released in 2006.", "label": 0, "entity": "iPhone", "predicate": "release_year", "object": "2006", "domain": "date"}
+{"text": "World War II ended in Europe in 1945.", "label": 1, "entity": "World War II", "predicate": "end_year_europe", "object": "1945", "domain": "date"}
+{"text": "World War II ended in Europe in 1944.", "label": 0, "entity": "World War II", "predicate": "end_year_europe", "object": "1944", "domain": "date"}
+{"text": "World War I ended in 1918.", "label": 1, "entity": "World War I", "predicate": "end_year", "object": "1918", "domain": "date"}
+{"text": "World War I ended in 1919.", "label": 0, "entity": "World War I", "predicate": "end_year", "object": "1919", "domain": "date"}
+{"text": "The Titanic sank in 1912.", "label": 1, "entity": "Titanic", "predicate": "sank_year", "object": "1912", "domain": "date"}
+{"text": "The Titanic sank in 1913.", "label": 0, "entity": "Titanic", "predicate": "sank_year", "object": "1913", "domain": "date"}
+{"text": "Christopher Columbus reached the Americas in 1492.", "label": 1, "entity": "Christopher Columbus", "predicate": "reached_americas_year", "object": "1492", "domain": "date"}
+{"text": "Christopher Columbus reached the Americas in 1491.", "label": 0, "entity": "Christopher Columbus", "predicate": "reached_americas_year", "object": "1491", "domain": "date"}
+{"text": "The French Revolution began in 1789.", "label": 1, "entity": "French Revolution", "predicate": "began_year", "object": "1789", "domain": "date"}
+{"text": "The French Revolution began in 1790.", "label": 0, "entity": "French Revolution", "predicate": "began_year", "object": "1790", "domain": "date"}
+{"text": "The American Civil War ended in 1865.", "label": 1, "entity": "American Civil War", "predicate": "end_year", "object": "1865", "domain": "date"}
+{"text": "The American Civil War ended in 1864.", "label": 0, "entity": "American Civil War", "predicate": "end_year", "object": "1864", "domain": "date"}
+{"text": "The Renaissance began in the 14th century.", "label": 1, "entity": "Renaissance", "predicate": "began_century", "object": "14th", "domain": "date"}
+{"text": "The Renaissance began in the 15th century.", "label": 0, "entity": "Renaissance", "predicate": "began_century", "object": "15th", "domain": "date"}
+{"text": "The Industrial Revolution began in the 18th century.", "label": 1, "entity": "Industrial Revolution", "predicate": "began_century", "object": "18th", "domain": "date"}
+{"text": "The Industrial Revolution began in the 19th century.", "label": 0, "entity": "Industrial Revolution", "predicate": "began_century", "object": "19th", "domain": "date"}
+{"text": "The Great Depression began in 1929.", "label": 1, "entity": "Great Depression", "predicate": "began_year", "object": "1929", "domain": "date"}
+{"text": "The Great Depression began in 1930.", "label": 0, "entity": "Great Depression", "predicate": "began_year", "object": "1930", "domain": "date"}
+{"text": "The Soviet Union dissolved in 1991.", "label": 1, "entity": "Soviet Union", "predicate": "dissolved_year", "object": "1991", "domain": "date"}
+{"text": "The Soviet Union dissolved in 1990.", "label": 0, "entity": "Soviet Union", "predicate": "dissolved_year", "object": "1990", "domain": "date"}
+{"text": "The European Union was established in 1993.", "label": 1, "entity": "European Union", "predicate": "established_year", "object": "1993", "domain": "date"}
+{"text": "The European Union was established in 1992.", "label": 0, "entity": "European Union", "predicate": "established_year", "object": "1992", "domain": "date"}
+{"text": "The United Nations was founded in 1945.", "label": 1, "entity": "United Nations", "predicate": "founded_year", "object": "1945", "domain": "date"}
+{"text": "The United Nations was founded in 1944.", "label": 0, "entity": "United Nations", "predicate": "founded_year", "object": "1944", "domain": "date"}
+{"text": "NASA was established in 1958.", "label": 1, "entity": "NASA", "predicate": "established_year", "object": "1958", "domain": "date"}
+{"text": "NASA was established in 1957.", "label": 0, "entity": "NASA", "predicate": "established_year", "object": "1957", "domain": "date"}
+{"text": "The Internet became publicly available in 1991.", "label": 1, "entity": "Internet", "predicate": "public_year", "object": "1991", "domain": "date"}
+{"text": "The Internet became publicly available in 1990.", "label": 0, "entity": "Internet", "predicate": "public_year", "object": "1990", "domain": "date"}
+{"text": "Facebook was founded in 2004.", "label": 1, "entity": "Facebook", "predicate": "founded_year", "object": "2004", "domain": "date"}
+{"text": "Facebook was founded in 2005.", "label": 0, "entity": "Facebook", "predicate": "founded_year", "object": "2005", "domain": "date"}
+{"text": "Twitter was founded in 2006.", "label": 1, "entity": "Twitter", "predicate": "founded_year", "object": "2006", "domain": "date"}
+{"text": "Twitter was founded in 2007.", "label": 0, "entity": "Twitter", "predicate": "founded_year", "object": "2007", "domain": "date"}
+{"text": "Google was founded in 1998.", "label": 1, "entity": "Google", "predicate": "founded_year", "object": "1998", "domain": "date"}
+{"text": "Google was founded in 1999.", "label": 0, "entity": "Google", "predicate": "founded_year", "object": "1999", "domain": "date"}
+{"text": "Amazon was founded in 1994.", "label": 1, "entity": "Amazon", "predicate": "founded_year", "object": "1994", "domain": "date"}
+{"text": "Amazon was founded in 1995.", "label": 0, "entity": "Amazon", "predicate": "founded_year", "object": "1995", "domain": "date"}
+{"text": "Apple Inc. was founded in 1976.", "label": 1, "entity": "Apple Inc.", "predicate": "founded_year", "object": "1976", "domain": "date"}
+{"text": "Apple Inc. was founded in 1977.", "label": 0, "entity": "Apple Inc.", "predicate": "founded_year", "object": "1977", "domain": "date"}
+{"text": "Microsoft was founded in 1975.", "label": 1, "entity": "Microsoft", "predicate": "founded_year", "object": "1975", "domain": "date"}
+{"text": "Microsoft was founded in 1976.", "label": 0, "entity": "Microsoft", "predicate": "founded_year", "object": "1976", "domain": "date"}
+{"text": "The first Olympic Games were held in 776 BC.", "label": 1, "entity": "Olympic Games", "predicate": "first_year", "object": "776 BC", "domain": "date"}
+{"text": "The first Olympic Games were held in 775 BC.", "label": 0, "entity": "Olympic Games", "predicate": "first_year", "object": "775 BC", "domain": "date"}
+{"text": "The modern Olympic Games began in 1896.", "label": 1, "entity": "Modern Olympic Games", "predicate": "began_year", "object": "1896", "domain": "date"}
+{"text": "The modern Olympic Games began in 1900.", "label": 0, "entity": "Modern Olympic Games", "predicate": "began_year", "object": "1900", "domain": "date"}
+{"text": "The FIFA World Cup began in 1930.", "label": 1, "entity": "FIFA World Cup", "predicate": "began_year", "object": "1930", "domain": "date"}
+{"text": "The FIFA World Cup began in 1934.", "label": 0, "entity": "FIFA World Cup", "predicate": "began_year", "object": "1934", "domain": "date"}
+{"text": "The Super Bowl began in 1967.", "label": 1, "entity": "Super Bowl", "predicate": "began_year", "object": "1967", "domain": "date"}
+{"text": "The Super Bowl began in 1966.", "label": 0, "entity": "Super Bowl", "predicate": "began_year", "object": "1966", "domain": "date"}
+{"text": "The NBA was founded in 1946.", "label": 1, "entity": "NBA", "predicate": "founded_year", "object": "1946", "domain": "date"}
+{"text": "The NBA was founded in 1947.", "label": 0, "entity": "NBA", "predicate": "founded_year", "object": "1947", "domain": "date"}
+{"text": "The Beatles formed in 1960.", "label": 1, "entity": "The Beatles", "predicate": "formed_year", "object": "1960", "domain": "date"}
+{"text": "The Beatles formed in 1961.", "label": 0, "entity": "The Beatles", "predicate": "formed_year", "object": "1961", "domain": "date"}
+{"text": "Elvis Presley was born in 1935.", "label": 1, "entity": "Elvis Presley", "predicate": "birth_year", "object": "1935", "domain": "date"}
+{"text": "Elvis Presley was born in 1936.", "label": 0, "entity": "Elvis Presley", "predicate": "birth_year", "object": "1936", "domain": "date"}
+{"text": "The Mona Lisa was painted in the early 16th century.", "label": 1, "entity": "Mona Lisa", "predicate": "painted_century", "object": "early 16th", "domain": "date"}
+{"text": "The Mona Lisa was painted in the 15th century.", "label": 0, "entity": "Mona Lisa", "predicate": "painted_century", "object": "15th", "domain": "date"}
+{"text": "The Statue of Liberty was dedicated in 1886.", "label": 1, "entity": "Statue of Liberty", "predicate": "dedicated_year", "object": "1886", "domain": "date"}
+{"text": "The Statue of Liberty was dedicated in 1885.", "label": 0, "entity": "Statue of Liberty", "predicate": "dedicated_year", "object": "1885", "domain": "date"}
+{"text": "The Eiffel Tower was completed in 1889.", "label": 1, "entity": "Eiffel Tower", "predicate": "completed_year", "object": "1889", "domain": "date"}
+{"text": "The Eiffel Tower was completed in 1890.", "label": 0, "entity": "Eiffel Tower", "predicate": "completed_year", "object": "1890", "domain": "date"}
+{"text": "The Panama Canal opened in 1914.", "label": 1, "entity": "Panama Canal", "predicate": "opened_year", "object": "1914", "domain": "date"}
+{"text": "The Panama Canal opened in 1915.", "label": 0, "entity": "Panama Canal", "predicate": "opened_year", "object": "1915", "domain": "date"}
+{"text": "The Suez Canal opened in 1869.", "label": 1, "entity": "Suez Canal", "predicate": "opened_year", "object": "1869", "domain": "date"}
+{"text": "The Suez Canal opened in 1870.", "label": 0, "entity": "Suez Canal", "predicate": "opened_year", "object": "1870", "domain": "date"}
+{"text": "The Great Wall of China was built over many centuries.", "label": 1, "entity": "Great Wall of China", "predicate": "built", "object": "over many centuries", "domain": "date"}
+{"text": "The Great Wall of China was built in one century.", "label": 0, "entity": "Great Wall of China", "predicate": "built", "object": "in one century", "domain": "date"}
+{"text": "Michael Jordan won six NBA championships.", "label": 1, "entity": "Michael Jordan", "predicate": "championships", "object": "6", "domain": "sports"}
+{"text": "Michael Jordan won seven NBA championships.", "label": 0, "entity": "Michael Jordan", "predicate": "championships", "object": "7", "domain": "sports"}
+{"text": "The New England Patriots have won six Super Bowls.", "label": 1, "entity": "New England Patriots", "predicate": "super_bowls", "object": "6", "domain": "sports"}
+{"text": "The New England Patriots have won seven Super Bowls.", "label": 0, "entity": "New England Patriots", "predicate": "super_bowls", "object": "7", "domain": "sports"}
+{"text": "Usain Bolt's 100m world record is 9.58 seconds.", "label": 1, "entity": "Usain Bolt", "predicate": "100m_record", "object": "9.58 seconds", "domain": "sports"}
+{"text": "Usain Bolt's 100m world record is 9.69 seconds.", "label": 0, "entity": "Usain Bolt", "predicate": "100m_record", "object": "9.69 seconds", "domain": "sports"}
+{"text": "Serena Williams won 23 Grand Slam singles titles.", "label": 1, "entity": "Serena Williams", "predicate": "grand_slams", "object": "23", "domain": "sports"}
+{"text": "Serena Williams won 24 Grand Slam singles titles.", "label": 0, "entity": "Serena Williams", "predicate": "grand_slams", "object": "24", "domain": "sports"}
+{"text": "Brazil has won five FIFA World Cups.", "label": 1, "entity": "Brazil", "predicate": "world_cups", "object": "5", "domain": "sports"}
+{"text": "Brazil has won six FIFA World Cups.", "label": 0, "entity": "Brazil", "predicate": "world_cups", "object": "6", "domain": "sports"}
+{"text": "Germany has won four FIFA World Cups.", "label": 1, "entity": "Germany", "predicate": "world_cups", "object": "4", "domain": "sports"}
+{"text": "Germany has won five FIFA World Cups.", "label": 0, "entity": "Germany", "predicate": "world_cups", "object": "5", "domain": "sports"}
+{"text": "Tiger Woods has won 15 major championships.", "label": 1, "entity": "Tiger Woods", "predicate": "major_championships", "object": "15", "domain": "sports"}
+{"text": "Tiger Woods has won 18 major championships.", "label": 0, "entity": "Tiger Woods", "predicate": "major_championships", "object": "18", "domain": "sports"}
+{"text": "Roger Federer has won 20 Grand Slam titles.", "label": 1, "entity": "Roger Federer", "predicate": "grand_slams", "object": "20", "domain": "sports"}
+{"text": "Roger Federer has won 21 Grand Slam titles.", "label": 0, "entity": "Roger Federer", "predicate": "grand_slams", "object": "21", "domain": "sports"}
+{"text": "Rafael Nadal has won 22 Grand Slam titles.", "label": 1, "entity": "Rafael Nadal", "predicate": "grand_slams", "object": "22", "domain": "sports"}
+{"text": "Rafael Nadal has won 23 Grand Slam titles.", "label": 0, "entity": "Rafael Nadal", "predicate": "grand_slams", "object": "23", "domain": "sports"}
+{"text": "Novak Djokovic has won 24 Grand Slam titles.", "label": 1, "entity": "Novak Djokovic", "predicate": "grand_slams", "object": "24", "domain": "sports"}
+{"text": "Novak Djokovic has won 25 Grand Slam titles.", "label": 0, "entity": "Novak Djokovic", "predicate": "grand_slams", "object": "25", "domain": "sports"}
+{"text": "Wayne Gretzky scored 2,857 career points.", "label": 1, "entity": "Wayne Gretzky", "predicate": "career_points", "object": "2,857", "domain": "sports"}
+{"text": "Wayne Gretzky scored 3,000 career points.", "label": 0, "entity": "Wayne Gretzky", "predicate": "career_points", "object": "3,000", "domain": "sports"}
+{"text": "Babe Ruth hit 714 home runs.", "label": 1, "entity": "Babe Ruth", "predicate": "home_runs", "object": "714", "domain": "sports"}
+{"text": "Babe Ruth hit 800 home runs.", "label": 0, "entity": "Babe Ruth", "predicate": "home_runs", "object": "800", "domain": "sports"}
+{"text": "Muhammad Ali won the heavyweight title three times.", "label": 1, "entity": "Muhammad Ali", "predicate": "heavyweight_titles", "object": "3", "domain": "sports"}
+{"text": "Muhammad Ali won the heavyweight title four times.", "label": 0, "entity": "Muhammad Ali", "predicate": "heavyweight_titles", "object": "4", "domain": "sports"}
+{"text": "Michael Phelps won 23 Olympic gold medals.", "label": 1, "entity": "Michael Phelps", "predicate": "olympic_golds", "object": "23", "domain": "sports"}
+{"text": "Michael Phelps won 25 Olympic gold medals.", "label": 0, "entity": "Michael Phelps", "predicate": "olympic_golds", "object": "25", "domain": "sports"}
+{"text": "Simone Biles has won 7 Olympic medals.", "label": 1, "entity": "Simone Biles", "predicate": "olympic_medals", "object": "7", "domain": "sports"}
+{"text": "Simone Biles has won 10 Olympic medals.", "label": 0, "entity": "Simone Biles", "predicate": "olympic_medals", "object": "10", "domain": "sports"}
+{"text": "Tom Brady won seven Super Bowl rings.", "label": 1, "entity": "Tom Brady", "predicate": "super_bowl_rings", "object": "7", "domain": "sports"}
+{"text": "Tom Brady won six Super Bowl rings.", "label": 0, "entity": "Tom Brady", "predicate": "super_bowl_rings", "object": "6", "domain": "sports"}
+{"text": "LeBron James has won four NBA championships.", "label": 1, "entity": "LeBron James", "predicate": "nba_championships", "object": "4", "domain": "sports"}
+{"text": "LeBron James has won five NBA championships.", "label": 0, "entity": "LeBron James", "predicate": "nba_championships", "object": "5", "domain": "sports"}
+{"text": "Kobe Bryant won five NBA championships.", "label": 1, "entity": "Kobe Bryant", "predicate": "nba_championships", "object": "5", "domain": "sports"}
+{"text": "Kobe Bryant won six NBA championships.", "label": 0, "entity": "Kobe Bryant", "predicate": "nba_championships", "object": "6", "domain": "sports"}
+{"text": "Lionel Messi has won seven Ballon d'Or awards.", "label": 1, "entity": "Lionel Messi", "predicate": "ballon_dor", "object": "7", "domain": "sports"}
+{"text": "Lionel Messi has won eight Ballon d'Or awards.", "label": 0, "entity": "Lionel Messi", "predicate": "ballon_dor", "object": "8", "domain": "sports"}
+{"text": "Cristiano Ronaldo has won five Ballon d'Or awards.", "label": 1, "entity": "Cristiano Ronaldo", "predicate": "ballon_dor", "object": "5", "domain": "sports"}
+{"text": "Cristiano Ronaldo has won six Ballon d'Or awards.", "label": 0, "entity": "Cristiano Ronaldo", "predicate": "ballon_dor", "object": "6", "domain": "sports"}
+{"text": "The Olympics are held every four years.", "label": 1, "entity": "Olympics", "predicate": "frequency", "object": "every four years", "domain": "sports"}
+{"text": "The Olympics are held every three years.", "label": 0, "entity": "Olympics", "predicate": "frequency", "object": "every three years", "domain": "sports"}
+{"text": "A marathon is 26.2 miles long.", "label": 1, "entity": "Marathon", "predicate": "distance", "object": "26.2 miles", "domain": "sports"}
+{"text": "A marathon is 25 miles long.", "label": 0, "entity": "Marathon", "predicate": "distance", "object": "25 miles", "domain": "sports"}
+{"text": "A basketball game has four quarters.", "label": 1, "entity": "Basketball game", "predicate": "periods", "object": "four quarters", "domain": "sports"}
+{"text": "A basketball game has three quarters.", "label": 0, "entity": "Basketball game", "predicate": "periods", "object": "three quarters", "domain": "sports"}
+{"text": "A soccer match is 90 minutes long.", "label": 1, "entity": "Soccer match", "predicate": "duration", "object": "90 minutes", "domain": "sports"}
+{"text": "A soccer match is 80 minutes long.", "label": 0, "entity": "Soccer match", "predicate": "duration", "object": "80 minutes", "domain": "sports"}
+{"text": "Tennis uses a 15-30-40 scoring system.", "label": 1, "entity": "Tennis", "predicate": "scoring", "object": "15-30-40", "domain": "sports"}
+{"text": "Tennis uses a 10-20-30 scoring system.", "label": 0, "entity": "Tennis", "predicate": "scoring", "object": "10-20-30", "domain": "sports"}
+{"text": "The World Series is best of seven games.", "label": 1, "entity": "World Series", "predicate": "format", "object": "best of seven", "domain": "sports"}
+{"text": "The World Series is best of five games.", "label": 0, "entity": "World Series", "predicate": "format", "object": "best of five", "domain": "sports"}
+{"text": "The Stanley Cup Finals is best of seven games.", "label": 1, "entity": "Stanley Cup Finals", "predicate": "format", "object": "best of seven", "domain": "sports"}
+{"text": "The Stanley Cup Finals is best of five games.", "label": 0, "entity": "Stanley Cup Finals", "predicate": "format", "object": "best of five", "domain": "sports"}
+{"text": "An NFL team has 11 players on the field.", "label": 1, "entity": "NFL team", "predicate": "players_on_field", "object": "11", "domain": "sports"}
+{"text": "An NFL team has 12 players on the field.", "label": 0, "entity": "NFL team", "predicate": "players_on_field", "object": "12", "domain": "sports"}
+{"text": "A baseball team has 9 players on the field.", "label": 1, "entity": "Baseball team", "predicate": "players_on_field", "object": "9", "domain": "sports"}
+{"text": "A baseball team has 10 players on the field.", "label": 0, "entity": "Baseball team", "predicate": "players_on_field", "object": "10", "domain": "sports"}
+{"text": "The Tour de France is about 3,500 km long.", "label": 1, "entity": "Tour de France", "predicate": "distance", "object": "3,500 km", "domain": "sports"}
+{"text": "The Tour de France is about 2,500 km long.", "label": 0, "entity": "Tour de France", "predicate": "distance", "object": "2,500 km", "domain": "sports"}
+{"text": "The chemical symbol for gold is Au.", "label": 1, "entity": "Gold", "predicate": "symbol", "object": "Au", "domain": "science"}
+{"text": "The chemical symbol for gold is Ag.", "label": 0, "entity": "Gold", "predicate": "symbol", "object": "Ag", "domain": "science"}
+{"text": "Water boils at 100°C at sea level.", "label": 1, "entity": "Water", "predicate": "boiling_point", "object": "100°C", "domain": "science"}
+{"text": "Water boils at 90°C at sea level.", "label": 0, "entity": "Water", "predicate": "boiling_point", "object": "90°C", "domain": "science"}
+{"text": "The speed of light is about 299,792 km/s.", "label": 1, "entity": "Light", "predicate": "speed", "object": "299,792 km/s", "domain": "science"}
+{"text": "The speed of light is about 250,000 km/s.", "label": 0, "entity": "Light", "predicate": "speed", "object": "250,000 km/s", "domain": "science"}
+{"text": "Earth orbits the Sun.", "label": 1, "entity": "Earth", "predicate": "orbits", "object": "Sun", "domain": "science"}
+{"text": "The Sun orbits Earth.", "label": 0, "entity": "Sun", "predicate": "orbits", "object": "Earth", "domain": "science"}
+{"text": "Humans have 23 pairs of chromosomes.", "label": 1, "entity": "Humans", "predicate": "chromosome_pairs", "object": "23", "domain": "science"}
+{"text": "Humans have 24 pairs of chromosomes.", "label": 0, "entity": "Humans", "predicate": "chromosome_pairs", "object": "24", "domain": "science"}
+{"text": "The chemical formula for water is H2O.", "label": 1, "entity": "Water", "predicate": "formula", "object": "H2O", "domain": "science"}
+{"text": "The chemical formula for water is H3O.", "label": 0, "entity": "Water", "predicate": "formula", "object": "H3O", "domain": "science"}
+{"text": "Oxygen makes up about 21% of Earth's atmosphere.", "label": 1, "entity": "Oxygen", "predicate": "atmosphere_percentage", "object": "21%", "domain": "science"}
+{"text": "Oxygen makes up about 78% of Earth's atmosphere.", "label": 0, "entity": "Oxygen", "predicate": "atmosphere_percentage", "object": "78%", "domain": "science"}
+{"text": "Nitrogen makes up about 78% of Earth's atmosphere.", "label": 1, "entity": "Nitrogen", "predicate": "atmosphere_percentage", "object": "78%", "domain": "science"}
+{"text": "Nitrogen makes up about 21% of Earth's atmosphere.", "label": 0, "entity": "Nitrogen", "predicate": "atmosphere_percentage", "object": "21%", "domain": "science"}
+{"text": "The human body has 206 bones.", "label": 1, "entity": "Human body", "predicate": "number_of_bones", "object": "206", "domain": "science"}
+{"text": "The human body has 250 bones.", "label": 0, "entity": "Human body", "predicate": "number_of_bones", "object": "250", "domain": "science"}
+{"text": "The heart has four chambers.", "label": 1, "entity": "Heart", "predicate": "chambers", "object": "4", "domain": "science"}
+{"text": "The heart has three chambers.", "label": 0, "entity": "Heart", "predicate": "chambers", "object": "3", "domain": "science"}
+{"text": "DNA stands for deoxyribonucleic acid.", "label": 1, "entity": "DNA", "predicate": "stands_for", "object": "deoxyribonucleic acid", "domain": "science"}
+{"text": "DNA stands for ribonucleic acid.", "label": 0, "entity": "DNA", "predicate": "stands_for", "object": "ribonucleic acid", "domain": "science"}
+{"text": "RNA stands for ribonucleic acid.", "label": 1, "entity": "RNA", "predicate": "stands_for", "object": "ribonucleic acid", "domain": "science"}
+{"text": "RNA stands for deoxyribonucleic acid.", "label": 0, "entity": "RNA", "predicate": "stands_for", "object": "deoxyribonucleic acid", "domain": "science"}
+{"text": "The mitochondria is the powerhouse of the cell.", "label": 1, "entity": "Mitochondria", "predicate": "function", "object": "powerhouse of the cell", "domain": "science"}
+{"text": "The nucleus is the powerhouse of the cell.", "label": 0, "entity": "Nucleus", "predicate": "function", "object": "powerhouse of the cell", "domain": "science"}
+{"text": "Photosynthesis converts CO2 and water into glucose.", "label": 1, "entity": "Photosynthesis", "predicate": "converts", "object": "CO2 and water into glucose", "domain": "science"}
+{"text": "Photosynthesis converts oxygen into CO2.", "label": 0, "entity": "Photosynthesis", "predicate": "converts", "object": "oxygen into CO2", "domain": "science"}
+{"text": "The periodic table has 118 elements.", "label": 1, "entity": "Periodic table", "predicate": "elements", "object": "118", "domain": "science"}
+{"text": "The periodic table has 120 elements.", "label": 0, "entity": "Periodic table", "predicate": "elements", "object": "120", "domain": "science"}
+{"text": "Hydrogen is the lightest element.", "label": 1, "entity": "Hydrogen", "predicate": "property", "object": "lightest element", "domain": "science"}
+{"text": "Helium is the lightest element.", "label": 0, "entity": "Helium", "predicate": "property", "object": "lightest element", "domain": "science"}
+{"text": "Diamond is the hardest natural material.", "label": 1, "entity": "Diamond", "predicate": "property", "object": "hardest natural material", "domain": "science"}
+{"text": "Steel is the hardest natural material.", "label": 0, "entity": "Steel", "predicate": "property", "object": "hardest natural material", "domain": "science"}
+{"text": "Sound travels faster in water than in air.", "label": 1, "entity": "Sound", "predicate": "travels_faster_in", "object": "water than air", "domain": "science"}
+{"text": "Sound travels faster in air than in water.", "label": 0, "entity": "Sound", "predicate": "travels_faster_in", "object": "air than water", "domain": "science"}
+{"text": "Mercury is the closest planet to the Sun.", "label": 1, "entity": "Mercury", "predicate": "position", "object": "closest to Sun", "domain": "science"}
+{"text": "Venus is the closest planet to the Sun.", "label": 0, "entity": "Venus", "predicate": "position", "object": "closest to Sun", "domain": "science"}
+{"text": "Jupiter is the largest planet in our solar system.", "label": 1, "entity": "Jupiter", "predicate": "size", "object": "largest planet", "domain": "science"}
+{"text": "Saturn is the largest planet in our solar system.", "label": 0, "entity": "Saturn", "predicate": "size", "object": "largest planet", "domain": "science"}
+{"text": "Mars has two moons.", "label": 1, "entity": "Mars", "predicate": "moons", "object": "2", "domain": "science"}
+{"text": "Mars has three moons.", "label": 0, "entity": "Mars", "predicate": "moons", "object": "3", "domain": "science"}
+{"text": "Saturn has rings made of ice and rock.", "label": 1, "entity": "Saturn", "predicate": "rings_composition", "object": "ice and rock", "domain": "science"}
+{"text": "Saturn has rings made of gas.", "label": 0, "entity": "Saturn", "predicate": "rings_composition", "object": "gas", "domain": "science"}
+{"text": "The Moon causes tides on Earth.", "label": 1, "entity": "Moon", "predicate": "causes", "object": "tides on Earth", "domain": "science"}
+{"text": "The Sun causes tides on Earth.", "label": 0, "entity": "Sun", "predicate": "causes", "object": "tides on Earth", "domain": "science"}
+{"text": "A light year is a unit of distance.", "label": 1, "entity": "Light year", "predicate": "type", "object": "unit of distance", "domain": "science"}
+{"text": "A light year is a unit of time.", "label": 0, "entity": "Light year", "predicate": "type", "object": "unit of time", "domain": "science"}
+{"text": "The universe is approximately 13.8 billion years old.", "label": 1, "entity": "Universe", "predicate": "age", "object": "13.8 billion years", "domain": "science"}
+{"text": "The universe is approximately 10 billion years old.", "label": 0, "entity": "Universe", "predicate": "age", "object": "10 billion years", "domain": "science"}
+{"text": "Gravity is the weakest fundamental force.", "label": 1, "entity": "Gravity", "predicate": "strength", "object": "weakest fundamental force", "domain": "science"}
+{"text": "Gravity is the strongest fundamental force.", "label": 0, "entity": "Gravity", "predicate": "strength", "object": "strongest fundamental force", "domain": "science"}
+{"text": "Atoms are mostly empty space.", "label": 1, "entity": "Atoms", "predicate": "structure", "object": "mostly empty space", "domain": "science"}
+{"text": "Atoms are mostly solid matter.", "label": 0, "entity": "Atoms", "predicate": "structure", "object": "mostly solid matter", "domain": "science"}
+{"text": "Electrons have negative charge.", "label": 1, "entity": "Electrons", "predicate": "charge", "object": "negative", "domain": "science"}
+{"text": "Electrons have positive charge.", "label": 0, "entity": "Electrons", "predicate": "charge", "object": "positive", "domain": "science"}
+{"text": "Protons have positive charge.", "label": 1, "entity": "Protons", "predicate": "charge", "object": "positive", "domain": "science"}
+{"text": "Protons have negative charge.", "label": 0, "entity": "Protons", "predicate": "charge", "object": "negative", "domain": "science"}
+{"text": "Neutrons have no electric charge.", "label": 1, "entity": "Neutrons", "predicate": "charge", "object": "no electric charge", "domain": "science"}
+{"text": "Neutrons have positive charge.", "label": 0, "entity": "Neutrons", "predicate": "charge", "object": "positive charge", "domain": "science"}
+{"text": "Ice is less dense than liquid water.", "label": 1, "entity": "Ice", "predicate": "density", "object": "less than liquid water", "domain": "science"}
+{"text": "Ice is more dense than liquid water.", "label": 0, "entity": "Ice", "predicate": "density", "object": "more than liquid water", "domain": "science"}
+{"text": "The pH of pure water is 7.", "label": 1, "entity": "Pure water", "predicate": "pH", "object": "7", "domain": "science"}
+{"text": "The pH of pure water is 6.", "label": 0, "entity": "Pure water", "predicate": "pH", "object": "6", "domain": "science"}
+{"text": "Acids have pH less than 7.", "label": 1, "entity": "Acids", "predicate": "pH_range", "object": "less than 7", "domain": "science"}
+{"text": "Acids have pH greater than 7.", "label": 0, "entity": "Acids", "predicate": "pH_range", "object": "greater than 7", "domain": "science"}
+{"text": "The Earth's core is made of iron and nickel.", "label": 1, "entity": "Earth's core", "predicate": "composition", "object": "iron and nickel", "domain": "science"}
+{"text": "The Earth's core is made of rock.", "label": 0, "entity": "Earth's core", "predicate": "composition", "object": "rock", "domain": "science"}
+{"text": "Diamonds are made of carbon.", "label": 1, "entity": "Diamonds", "predicate": "composition", "object": "carbon", "domain": "science"}
+{"text": "Diamonds are made of silicon.", "label": 0, "entity": "Diamonds", "predicate": "composition", "object": "silicon", "domain": "science"}
+{"text": "Plants produce oxygen during photosynthesis.", "label": 1, "entity": "Plants", "predicate": "produce", "object": "oxygen during photosynthesis", "domain": "science"}
+{"text": "Plants produce carbon dioxide during photosynthesis.", "label": 0, "entity": "Plants", "predicate": "produce", "object": "carbon dioxide during photosynthesis", "domain": "science"}
+{"text": "The Great Barrier Reef is the world's largest coral reef.", "label": 1, "entity": "Great Barrier Reef", "predicate": "size", "object": "world's largest coral reef", "domain": "science"}
+{"text": "The Caribbean Reef is the world's largest coral reef.", "label": 0, "entity": "Caribbean Reef", "predicate": "size", "object": "world's largest coral reef", "domain": "science"}
+{"text": "Antibiotics work against bacteria.", "label": 1, "entity": "Antibiotics", "predicate": "work_against", "object": "bacteria", "domain": "science"}
+{"text": "Antibiotics work against viruses.", "label": 0, "entity": "Antibiotics", "predicate": "work_against", "object": "viruses", "domain": "science"}
+{"text": "Vaccines help prevent diseases.", "label": 1, "entity": "Vaccines", "predicate": "function", "object": "prevent diseases", "domain": "science"}
+{"text": "Vaccines cause the diseases they prevent.", "label": 0, "entity": "Vaccines", "predicate": "function", "object": "cause diseases", "domain": "science"}
+{"text": "The human brain uses about 20% of the body's energy.", "label": 1, "entity": "Human brain", "predicate": "energy_usage", "object": "20%", "domain": "science"}
+{"text": "The human brain uses about 50% of the body's energy.", "label": 0, "entity": "Human brain", "predicate": "energy_usage", "object": "50%", "domain": "science"}
+{"text": "Blood type O is the universal donor.", "label": 1, "entity": "Blood type O", "predicate": "property", "object": "universal donor", "domain": "science"}
+{"text": "Blood type AB is the universal donor.", "label": 0, "entity": "Blood type AB", "predicate": "property", "object": "universal donor", "domain": "science"}
+{"text": "The chemical symbol for silver is Ag.", "label": 1, "entity": "Silver", "predicate": "symbol", "object": "Ag", "domain": "science"}
+{"text": "The chemical symbol for silver is Au.", "label": 0, "entity": "Silver", "predicate": "symbol", "object": "Au", "domain": "science"}
+{"text": "The chemical symbol for iron is Fe.", "label": 1, "entity": "Iron", "predicate": "symbol", "object": "Fe", "domain": "science"}
+{"text": "The chemical symbol for iron is Ir.", "label": 0, "entity": "Iron", "predicate": "symbol", "object": "Ir", "domain": "science"}
+{"text": "The chemical symbol for sodium is Na.", "label": 1, "entity": "Sodium", "predicate": "symbol", "object": "Na", "domain": "science"}
+{"text": "The chemical symbol for sodium is So.", "label": 0, "entity": "Sodium", "predicate": "symbol", "object": "So", "domain": "science"}
+{"text": "The chemical symbol for potassium is K.", "label": 1, "entity": "Potassium", "predicate": "symbol", "object": "K", "domain": "science"}
+{"text": "The chemical symbol for potassium is P.", "label": 0, "entity": "Potassium", "predicate": "symbol", "object": "P", "domain": "science"}
+{"text": "The chemical symbol for calcium is Ca.", "label": 1, "entity": "Calcium", "predicate": "symbol", "object": "Ca", "domain": "science"}
+{"text": "The chemical symbol for calcium is C.", "label": 0, "entity": "Calcium", "predicate": "symbol", "object": "C", "domain": "science"}
+{"text": "The Amazon Rainforest produces about 20% of Earth's oxygen.", "label": 1, "entity": "Amazon Rainforest", "predicate": "oxygen_production", "object": "20%", "domain": "science"}
+{"text": "The Amazon Rainforest produces about 50% of Earth's oxygen.", "label": 0, "entity": "Amazon Rainforest", "predicate": "oxygen_production", "object": "50%", "domain": "science"}
+{"text": "E=mc² is Einstein's mass-energy equation.", "label": 1, "entity": "E=mc²", "predicate": "creator", "object": "Einstein", "domain": "science"}
+{"text": "E=mc² is Newton's mass-energy equation.", "label": 0, "entity": "E=mc²", "predicate": "creator", "object": "Newton", "domain": "science"}
+{"text": "Absolute zero is -273.15°C.", "label": 1, "entity": "Absolute zero", "predicate": "temperature", "object": "-273.15°C", "domain": "science"}
+{"text": "Absolute zero is -250°C.", "label": 0, "entity": "Absolute zero", "predicate": "temperature", "object": "-250°C", "domain": "science"}
+{"text": "The human genome has about 3 billion base pairs.", "label": 1, "entity": "Human genome", "predicate": "base_pairs", "object": "3 billion", "domain": "science"}
+{"text": "The human genome has about 1 billion base pairs.", "label": 0, "entity": "Human genome", "predicate": "base_pairs", "object": "1 billion", "domain": "science"}
+{"text": "Lightning is hotter than the surface of the Sun.", "label": 1, "entity": "Lightning", "predicate": "temperature_comparison", "object": "hotter than Sun's surface", "domain": "science"}
+{"text": "Lightning is cooler than the surface of the Sun.", "label": 0, "entity": "Lightning", "predicate": "temperature_comparison", "object": "cooler than Sun's surface", "domain": "science"}
+{"text": "Glass is actually a very slow-moving liquid.", "label": 0, "entity": "Glass", "predicate": "state", "object": "slow-moving liquid", "domain": "science"}
+{"text": "Glass is an amorphous solid.", "label": 1, "entity": "Glass", "predicate": "state", "object": "amorphous solid", "domain": "science"}
+{"text": "Sharks are older than trees.", "label": 1, "entity": "Sharks", "predicate": "age_comparison", "object": "older than trees", "domain": "science"}
+{"text": "Trees are older than sharks.", "label": 0, "entity": "Trees", "predicate": "age_comparison", "object": "older than sharks", "domain": "science"}
+{"text": "Bananas are berries.", "label": 1, "entity": "Bananas", "predicate": "classification", "object": "berries", "domain": "science"}
+{"text": "Strawberries are berries.", "label": 0, "entity": "Strawberries", "predicate": "classification", "object": "berries", "domain": "science"}
+{"text": "Octopuses have three hearts.", "label": 1, "entity": "Octopuses", "predicate": "hearts", "object": "3", "domain": "science"}
+{"text": "Octopuses have two hearts.", "label": 0, "entity": "Octopuses", "predicate": "hearts", "object": "2", "domain": "science"}
+{"text": "A day on Venus is longer than its year.", "label": 1, "entity": "Venus", "predicate": "day_year_comparison", "object": "day longer than year", "domain": "science"}
+{"text": "A year on Venus is longer than its day.", "label": 0, "entity": "Venus", "predicate": "day_year_comparison", "object": "year longer than day", "domain": "science"}
+{"text": "Honey never spoils.", "label": 1, "entity": "Honey", "predicate": "shelf_life", "object": "never spoils", "domain": "science"}
+{"text": "Honey spoils after one year.", "label": 0, "entity": "Honey", "predicate": "shelf_life", "object": "spoils after one year", "domain": "science"}
+{"text": "The Eiffel Tower can grow 6 inches in summer.", "label": 1, "entity": "Eiffel Tower", "predicate": "summer_expansion", "object": "6 inches", "domain": "science"}
+{"text": "The Eiffel Tower shrinks 6 inches in summer.", "label": 0, "entity": "Eiffel Tower", "predicate": "summer_change", "object": "shrinks 6 inches", "domain": "science"}
+{"text": "There are more possible chess games than atoms in the universe.", "label": 1, "entity": "Chess games", "predicate": "quantity_comparison", "object": "more than atoms in universe", "domain": "science"}
+{"text": "There are fewer possible chess games than atoms in the universe.", "label": 0, "entity": "Chess games", "predicate": "quantity_comparison", "object": "fewer than atoms in universe", "domain": "science"}
+{"text": "Hot water can freeze faster than cold water.", "label": 1, "entity": "Hot water", "predicate": "freezing_property", "object": "can freeze faster than cold", "domain": "science"}
+{"text": "Cold water always freezes faster than hot water.", "label": 0, "entity": "Cold water", "predicate": "freezing_property", "object": "always freezes faster", "domain": "science"}
+{"text": "Cleopatra lived closer to the Moon landing than to the pyramids.", "label": 1, "entity": "Cleopatra", "predicate": "temporal_proximity", "object": "closer to Moon landing", "domain": "date"}
+{"text": "Cleopatra lived closer to the pyramids than to the Moon landing.", "label": 0, "entity": "Cleopatra", "predicate": "temporal_proximity", "object": "closer to pyramids", "domain": "date"}
+{"text": "Oxford University is older than the Aztec Empire.", "label": 1, "entity": "Oxford University", "predicate": "age_comparison", "object": "older than Aztec Empire", "domain": "date"}
+{"text": "The Aztec Empire is older than Oxford University.", "label": 0, "entity": "Aztec Empire", "predicate": "age_comparison", "object": "older than Oxford University", "domain": "date"}
+{"text": "Nintendo was founded in 1889.", "label": 1, "entity": "Nintendo", "predicate": "founded_year", "object": "1889", "domain": "date"}
+{"text": "Nintendo was founded in 1989.", "label": 0, "entity": "Nintendo", "predicate": "founded_year", "object": "1989", "domain": "date"}
+{"text": "The fax machine was invented before the telephone.", "label": 0, "entity": "Fax machine", "predicate": "invention_order", "object": "before telephone", "domain": "date"}
+{"text": "The telephone was invented before the fax machine.", "label": 1, "entity": "Telephone", "predicate": "invention_order", "object": "before fax machine", "domain": "date"}
+{"text": "Harvard University was founded in 1636.", "label": 1, "entity": "Harvard University", "predicate": "founded_year", "object": "1636", "domain": "date"}
+{"text": "Harvard University was founded in 1736.", "label": 0, "entity": "Harvard University", "predicate": "founded_year", "object": "1736", "domain": "date"}
+{"text": "The Great Fire of London was in 1666.", "label": 1, "entity": "Great Fire of London", "predicate": "year", "object": "1666", "domain": "date"}
+{"text": "The Great Fire of London was in 1616.", "label": 0, "entity": "Great Fire of London", "predicate": "year", "object": "1616", "domain": "date"}
+{"text": "The Magna Carta was signed in 1215.", "label": 1, "entity": "Magna Carta", "predicate": "signed_year", "object": "1215", "domain": "date"}
+{"text": "The Magna Carta was signed in 1315.", "label": 0, "entity": "Magna Carta", "predicate": "signed_year", "object": "1315", "domain": "date"}
+{"text": "The Black Death peaked in Europe from 1347 to 1351.", "label": 1, "entity": "Black Death", "predicate": "peak_years", "object": "1347-1351", "domain": "date"}
+{"text": "The Black Death peaked in Europe from 1447 to 1451.", "label": 0, "entity": "Black Death", "predicate": "peak_years", "object": "1447-1451", "domain": "date"}
+{"text": "The Hundred Years' War lasted 116 years.", "label": 1, "entity": "Hundred Years War", "predicate": "duration", "object": "116 years", "domain": "date"}
+{"text": "The Hundred Years' War lasted exactly 100 years.", "label": 0, "entity": "Hundred Years War", "predicate": "duration", "object": "100 years", "domain": "date"}
+{"text": "The Printing Press was invented around 1440.", "label": 1, "entity": "Printing Press", "predicate": "invention_year", "object": "1440", "domain": "date"}
+{"text": "The Printing Press was invented around 1540.", "label": 0, "entity": "Printing Press", "predicate": "invention_year", "object": "1540", "domain": "date"}
+{"text": "The Byzantine Empire fell in 1453.", "label": 1, "entity": "Byzantine Empire", "predicate": "fall_year", "object": "1453", "domain": "date"}
+{"text": "The Byzantine Empire fell in 1353.", "label": 0, "entity": "Byzantine Empire", "predicate": "fall_year", "object": "1353", "domain": "date"}
+{"text": "The Salem Witch Trials occurred in 1692-1693.", "label": 1, "entity": "Salem Witch Trials", "predicate": "years", "object": "1692-1693", "domain": "date"}
+{"text": "The Salem Witch Trials occurred in 1792-1793.", "label": 0, "entity": "Salem Witch Trials", "predicate": "years", "object": "1792-1793", "domain": "date"}
+{"text": "The Boston Tea Party happened in 1773.", "label": 1, "entity": "Boston Tea Party", "predicate": "year", "object": "1773", "domain": "date"}
+{"text": "The Boston Tea Party happened in 1775.", "label": 0, "entity": "Boston Tea Party", "predicate": "year", "object": "1775", "domain": "date"}
+{"text": "Napoleon was exiled to Elba in 1814.", "label": 1, "entity": "Napoleon", "predicate": "elba_exile_year", "object": "1814", "domain": "date"}
+{"text": "Napoleon was exiled to Elba in 1815.", "label": 0, "entity": "Napoleon", "predicate": "elba_exile_year", "object": "1815", "domain": "date"}
+{"text": "The California Gold Rush began in 1848.", "label": 1, "entity": "California Gold Rush", "predicate": "began_year", "object": "1848", "domain": "date"}
+{"text": "The California Gold Rush began in 1849.", "label": 0, "entity": "California Gold Rush", "predicate": "began_year", "object": "1849", "domain": "date"}
+{"text": "The Wright Brothers' first flight was 12 seconds long.", "label": 1, "entity": "Wright Brothers first flight", "predicate": "duration", "object": "12 seconds", "domain": "bio"}
+{"text": "The Wright Brothers' first flight was 59 seconds long.", "label": 0, "entity": "Wright Brothers first flight", "predicate": "duration", "object": "59 seconds", "domain": "bio"}
+{"text": "Van Gogh only sold one painting during his lifetime.", "label": 1, "entity": "Van Gogh", "predicate": "paintings_sold", "object": "1", "domain": "bio"}
+{"text": "Van Gogh sold hundreds of paintings during his lifetime.", "label": 0, "entity": "Van Gogh", "predicate": "paintings_sold", "object": "hundreds", "domain": "bio"}
+{"text": "Mozart wrote his first symphony at age 8.", "label": 1, "entity": "Mozart", "predicate": "first_symphony_age", "object": "8", "domain": "bio"}
+{"text": "Mozart wrote his first symphony at age 12.", "label": 0, "entity": "Mozart", "predicate": "first_symphony_age", "object": "12", "domain": "bio"}
+{"text": "Beethoven composed while deaf.", "label": 1, "entity": "Beethoven", "predicate": "composed_while", "object": "deaf", "domain": "bio"}
+{"text": "Beethoven never experienced hearing loss.", "label": 0, "entity": "Beethoven", "predicate": "hearing", "object": "never lost", "domain": "bio"}
+{"text": "Shakespeare invented over 1,700 English words.", "label": 1, "entity": "Shakespeare", "predicate": "words_invented", "object": "over 1,700", "domain": "bio"}
+{"text": "Shakespeare invented about 100 English words.", "label": 0, "entity": "Shakespeare", "predicate": "words_invented", "object": "about 100", "domain": "bio"}
+{"text": "Benjamin Franklin invented bifocals.", "label": 1, "entity": "Benjamin Franklin", "predicate": "invented", "object": "bifocals", "domain": "bio"}
+{"text": "Benjamin Franklin invented the telescope.", "label": 0, "entity": "Benjamin Franklin", "predicate": "invented", "object": "telescope", "domain": "bio"}
+{"text": "Harriet Tubman was called Moses.", "label": 1, "entity": "Harriet Tubman", "predicate": "nickname", "object": "Moses", "domain": "bio"}
+{"text": "Harriet Tubman was called Freedom Fighter.", "label": 0, "entity": "Harriet Tubman", "predicate": "nickname", "object": "Freedom Fighter", "domain": "bio"}
+{"text": "Florence Nightingale was known as the Lady with the Lamp.", "label": 1, "entity": "Florence Nightingale", "predicate": "known_as", "object": "Lady with the Lamp", "domain": "bio"}
+{"text": "Florence Nightingale was known as the Angel of Mercy.", "label": 0, "entity": "Florence Nightingale", "predicate": "known_as", "object": "Angel of Mercy", "domain": "bio"}
+{"text": "Frida Kahlo painted many self-portraits.", "label": 1, "entity": "Frida Kahlo", "predicate": "painted", "object": "many self-portraits", "domain": "bio"}
+{"text": "Frida Kahlo rarely painted herself.", "label": 0, "entity": "Frida Kahlo", "predicate": "painted", "object": "rarely herself", "domain": "bio"}
+{"text": "Stephen Hawking lived with ALS for 55 years.", "label": 1, "entity": "Stephen Hawking", "predicate": "lived_with_ALS", "object": "55 years", "domain": "bio"}
+{"text": "Stephen Hawking lived with ALS for 20 years.", "label": 0, "entity": "Stephen Hawking", "predicate": "lived_with_ALS", "object": "20 years", "domain": "bio"}
+{"text": "Jane Goodall studied chimpanzees.", "label": 1, "entity": "Jane Goodall", "predicate": "studied", "object": "chimpanzees", "domain": "bio"}
+{"text": "Jane Goodall studied gorillas.", "label": 0, "entity": "Jane Goodall", "predicate": "studied", "object": "gorillas", "domain": "bio"}
+{"text": "Dian Fossey studied mountain gorillas.", "label": 1, "entity": "Dian Fossey", "predicate": "studied", "object": "mountain gorillas", "domain": "bio"}
+{"text": "Dian Fossey studied chimpanzees.", "label": 0, "entity": "Dian Fossey", "predicate": "studied", "object": "chimpanzees", "domain": "bio"}
+{"text": "Rachel Carson wrote Silent Spring.", "label": 1, "entity": "Rachel Carson", "predicate": "wrote", "object": "Silent Spring", "domain": "bio"}
+{"text": "Rachel Carson wrote The Jungle.", "label": 0, "entity": "Rachel Carson", "predicate": "wrote", "object": "The Jungle", "domain": "bio"}
+{"text": "Rosalind Franklin helped discover DNA structure.", "label": 1, "entity": "Rosalind Franklin", "predicate": "helped_discover", "object": "DNA structure", "domain": "bio"}
+{"text": "Rosalind Franklin discovered penicillin.", "label": 0, "entity": "Rosalind Franklin", "predicate": "discovered", "object": "penicillin", "domain": "bio"}
+{"text": "Katherine Johnson calculated trajectories for NASA.", "label": 1, "entity": "Katherine Johnson", "predicate": "calculated", "object": "trajectories for NASA", "domain": "bio"}
+{"text": "Katherine Johnson designed rockets for NASA.", "label": 0, "entity": "Katherine Johnson", "predicate": "designed", "object": "rockets for NASA", "domain": "bio"}
+{"text": "Hedy Lamarr invented frequency hopping.", "label": 1, "entity": "Hedy Lamarr", "predicate": "invented", "object": "frequency hopping", "domain": "bio"}
+{"text": "Hedy Lamarr invented the radio.", "label": 0, "entity": "Hedy Lamarr", "predicate": "invented", "object": "radio", "domain": "bio"}
+{"text": "Grace Hopper invented the compiler.", "label": 1, "entity": "Grace Hopper", "predicate": "invented", "object": "compiler", "domain": "bio"}
+{"text": "Grace Hopper invented the computer.", "label": 0, "entity": "Grace Hopper", "predicate": "invented", "object": "computer", "domain": "bio"}
+{"text": "Sacagawea guided Lewis and Clark.", "label": 1, "entity": "Sacagawea", "predicate": "guided", "object": "Lewis and Clark", "domain": "bio"}
+{"text": "Sacagawea led the Mayflower voyage.", "label": 0, "entity": "Sacagawea", "predicate": "led", "object": "Mayflower voyage", "domain": "bio"}
+{"text": "Pocahontas saved John Smith.", "label": 1, "entity": "Pocahontas", "predicate": "saved", "object": "John Smith", "domain": "bio"}
+{"text": "Pocahontas married John Smith.", "label": 0, "entity": "Pocahontas", "predicate": "married", "object": "John Smith", "domain": "bio"}
+{"text": "Anne Frank wrote her diary in hiding.", "label": 1, "entity": "Anne Frank", "predicate": "wrote_diary", "object": "in hiding", "domain": "bio"}
+{"text": "Anne Frank published her diary herself.", "label": 0, "entity": "Anne Frank", "predicate": "published_diary", "object": "herself", "domain": "bio"}
+{"text": "Helen Keller was deaf and blind.", "label": 1, "entity": "Helen Keller", "predicate": "conditions", "object": "deaf and blind", "domain": "bio"}
+{"text": "Helen Keller was only blind.", "label": 0, "entity": "Helen Keller", "predicate": "condition", "object": "only blind", "domain": "bio"}
+{"text": "Babe Ruth called his shot in 1932.", "label": 1, "entity": "Babe Ruth", "predicate": "called_shot_year", "object": "1932", "domain": "sports"}
+{"text": "Babe Ruth called his shot in 1927.", "label": 0, "entity": "Babe Ruth", "predicate": "called_shot_year", "object": "1927", "domain": "sports"}
+{"text": "Jesse Owens won four gold medals at the 1936 Olympics.", "label": 1, "entity": "Jesse Owens", "predicate": "1936_olympics_golds", "object": "4", "domain": "sports"}
+{"text": "Jesse Owens won three gold medals at the 1936 Olympics.", "label": 0, "entity": "Jesse Owens", "predicate": "1936_olympics_golds", "object": "3", "domain": "sports"}
+{"text": "Roger Bannister broke the 4-minute mile in 1954.", "label": 1, "entity": "Roger Bannister", "predicate": "broke_4min_mile_year", "object": "1954", "domain": "sports"}
+{"text": "Roger Bannister broke the 4-minute mile in 1952.", "label": 0, "entity": "Roger Bannister", "predicate": "broke_4min_mile_year", "object": "1952", "domain": "sports"}
+{"text": "Don Larsen pitched a perfect game in the World Series.", "label": 1, "entity": "Don Larsen", "predicate": "pitched", "object": "perfect game in World Series", "domain": "sports"}
+{"text": "Don Larsen pitched a no-hitter in the World Series.", "label": 0, "entity": "Don Larsen", "predicate": "pitched", "object": "no-hitter in World Series", "domain": "sports"}
+{"text": "Wilt Chamberlain scored 100 points in a game.", "label": 1, "entity": "Wilt Chamberlain", "predicate": "single_game_points", "object": "100", "domain": "sports"}
+{"text": "Wilt Chamberlain scored 90 points in a game.", "label": 0, "entity": "Wilt Chamberlain", "predicate": "single_game_points", "object": "90", "domain": "sports"}
+{"text": "The Miracle on Ice happened in 1980.", "label": 1, "entity": "Miracle on Ice", "predicate": "year", "object": "1980", "domain": "sports"}
+{"text": "The Miracle on Ice happened in 1984.", "label": 0, "entity": "Miracle on Ice", "predicate": "year", "object": "1984", "domain": "sports"}
+{"text": "Leicester City won the Premier League in 2016.", "label": 1, "entity": "Leicester City", "predicate": "won_premier_league", "object": "2016", "domain": "sports"}
+{"text": "Leicester City won the Premier League in 2015.", "label": 0, "entity": "Leicester City", "predicate": "won_premier_league", "object": "2015", "domain": "sports"}
+{"text": "The Chicago Cubs ended their drought in 2016.", "label": 1, "entity": "Chicago Cubs", "predicate": "ended_drought_year", "object": "2016", "domain": "sports"}
+{"text": "The Chicago Cubs ended their drought in 2017.", "label": 0, "entity": "Chicago Cubs", "predicate": "ended_drought_year", "object": "2017", "domain": "sports"}
+{"text": "Tiger Woods won the Masters at age 21.", "label": 1, "entity": "Tiger Woods", "predicate": "masters_win_age", "object": "21", "domain": "sports"}
+{"text": "Tiger Woods won the Masters at age 25.", "label": 0, "entity": "Tiger Woods", "predicate": "masters_win_age", "object": "25", "domain": "sports"}
+{"text": "The Golden State Warriors won 73 games in 2015-16.", "label": 1, "entity": "Golden State Warriors", "predicate": "2015-16_wins", "object": "73", "domain": "sports"}
+{"text": "The Golden State Warriors won 72 games in 2015-16.", "label": 0, "entity": "Golden State Warriors", "predicate": "2015-16_wins", "object": "72", "domain": "sports"}
+{"text": "A perfect game in bowling is 300.", "label": 1, "entity": "Bowling", "predicate": "perfect_score", "object": "300", "domain": "sports"}
+{"text": "A perfect game in bowling is 250.", "label": 0, "entity": "Bowling", "predicate": "perfect_score", "object": "250", "domain": "sports"}
+{"text": "The Triple Crown in horse racing has three races.", "label": 1, "entity": "Triple Crown", "predicate": "number_of_races", "object": "3", "domain": "sports"}
+{"text": "The Triple Crown in horse racing has four races.", "label": 0, "entity": "Triple Crown", "predicate": "number_of_races", "object": "4", "domain": "sports"}
+{"text": "The Masters is played at Augusta National.", "label": 1, "entity": "The Masters", "predicate": "venue", "object": "Augusta National", "domain": "sports"}
+{"text": "The Masters is played at Pebble Beach.", "label": 0, "entity": "The Masters", "predicate": "venue", "object": "Pebble Beach", "domain": "sports"}
+{"text": "Wimbledon is played on grass courts.", "label": 1, "entity": "Wimbledon", "predicate": "surface", "object": "grass", "domain": "sports"}
+{"text": "Wimbledon is played on clay courts.", "label": 0, "entity": "Wimbledon", "predicate": "surface", "object": "clay", "domain": "sports"}
+{"text": "The French Open is played on clay courts.", "label": 1, "entity": "French Open", "predicate": "surface", "object": "clay", "domain": "sports"}
+{"text": "The French Open is played on hard courts.", "label": 0, "entity": "French Open", "predicate": "surface", "object": "hard", "domain": "sports"}
+{"text": "The Stanley Cup is the oldest trophy in North American sports.", "label": 1, "entity": "Stanley Cup", "predicate": "distinction", "object": "oldest trophy in North American sports", "domain": "sports"}
+{"text": "The World Series trophy is the oldest in North American sports.", "label": 0, "entity": "World Series trophy", "predicate": "distinction", "object": "oldest in North American sports", "domain": "sports"}
+{"text": "The Olympic motto is Faster, Higher, Stronger.", "label": 1, "entity": "Olympic motto", "predicate": "words", "object": "Faster, Higher, Stronger", "domain": "sports"}
+{"text": "The Olympic motto is Faster, Further, Stronger.", "label": 0, "entity": "Olympic motto", "predicate": "words", "object": "Faster, Further, Stronger", "domain": "sports"}
+{"text": "A soccer field is called a pitch.", "label": 1, "entity": "Soccer field", "predicate": "called", "object": "pitch", "domain": "sports"}
+{"text": "A soccer field is called a court.", "label": 0, "entity": "Soccer field", "predicate": "called", "object": "court", "domain": "sports"}
+{"text": "The Heisman Trophy is for college football.", "label": 1, "entity": "Heisman Trophy", "predicate": "sport", "object": "college football", "domain": "sports"}
+{"text": "The Heisman Trophy is for professional football.", "label": 0, "entity": "Heisman Trophy", "predicate": "sport", "object": "professional football", "domain": "sports"}
+{"text": "Cricket has 11 players per team.", "label": 1, "entity": "Cricket", "predicate": "players_per_team", "object": "11", "domain": "sports"}
+{"text": "Cricket has 10 players per team.", "label": 0, "entity": "Cricket", "predicate": "players_per_team", "object": "10", "domain": "sports"}
+{"text": "Rugby originated in England.", "label": 1, "entity": "Rugby", "predicate": "origin", "object": "England", "domain": "sports"}
+{"text": "Rugby originated in France.", "label": 0, "entity": "Rugby", "predicate": "origin", "object": "France", "domain": "sports"}
+{"text": "The America's Cup is a sailing competition.", "label": 1, "entity": "America's Cup", "predicate": "sport", "object": "sailing", "domain": "sports"}
+{"text": "The America's Cup is a rowing competition.", "label": 0, "entity": "America's Cup", "predicate": "sport", "object": "rowing", "domain": "sports"}
+{"text": "Formula 1 cars can exceed 200 mph.", "label": 1, "entity": "Formula 1 cars", "predicate": "speed", "object": "exceed 200 mph", "domain": "sports"}
+{"text": "Formula 1 cars cannot exceed 150 mph.", "label": 0, "entity": "Formula 1 cars", "predicate": "speed", "object": "cannot exceed 150 mph", "domain": "sports"}
+{"text": "The Kentucky Derby is for 3-year-old horses.", "label": 1, "entity": "Kentucky Derby", "predicate": "horse_age", "object": "3-year-old", "domain": "sports"}
+{"text": "The Kentucky Derby is for 4-year-old horses.", "label": 0, "entity": "Kentucky Derby", "predicate": "horse_age", "object": "4-year-old", "domain": "sports"}
+{"text": "A biathlon combines skiing and shooting.", "label": 1, "entity": "Biathlon", "predicate": "combines", "object": "skiing and shooting", "domain": "sports"}
+{"text": "A biathlon combines running and swimming.", "label": 0, "entity": "Biathlon", "predicate": "combines", "object": "running and swimming", "domain": "sports"}
+{"text": "The Ryder Cup is between Europe and USA.", "label": 1, "entity": "Ryder Cup", "predicate": "teams", "object": "Europe and USA", "domain": "sports"}
+{"text": "The Ryder Cup is between Asia and USA.", "label": 0, "entity": "Ryder Cup", "predicate": "teams", "object": "Asia and USA", "domain": "sports"}
+{"text": "Mount Rushmore has four presidents.", "label": 1, "entity": "Mount Rushmore", "predicate": "presidents", "object": "4", "domain": "geo"}
+{"text": "Mount Rushmore has five presidents.", "label": 0, "entity": "Mount Rushmore", "predicate": "presidents", "object": "5", "domain": "geo"}
+{"text": "The Dead Sea is the lowest point on Earth.", "label": 1, "entity": "Dead Sea", "predicate": "distinction", "object": "lowest point on Earth", "domain": "geo"}
+{"text": "Death Valley is the lowest point on Earth.", "label": 0, "entity": "Death Valley", "predicate": "distinction", "object": "lowest point on Earth", "domain": "geo"}
+{"text": "Lake Baikal is the deepest lake.", "label": 1, "entity": "Lake Baikal", "predicate": "distinction", "object": "deepest lake", "domain": "geo"}
+{"text": "Lake Superior is the deepest lake.", "label": 0, "entity": "Lake Superior", "predicate": "distinction", "object": "deepest lake", "domain": "geo"}
+{"text": "The Sahara is the world's largest hot desert.", "label": 1, "entity": "Sahara", "predicate": "distinction", "object": "world's largest hot desert", "domain": "geo"}
+{"text": "The Gobi is the world's largest hot desert.", "label": 0, "entity": "Gobi", "predicate": "distinction", "object": "world's largest hot desert", "domain": "geo"}
+{"text": "Vatican City is the smallest country.", "label": 1, "entity": "Vatican City", "predicate": "size_rank", "object": "smallest country", "domain": "geo"}
+{"text": "Monaco is the smallest country.", "label": 0, "entity": "Monaco", "predicate": "size_rank", "object": "smallest country", "domain": "geo"}
+{"text": "Indonesia has the most islands.", "label": 1, "entity": "Indonesia", "predicate": "distinction", "object": "most islands", "domain": "geo"}
+{"text": "Philippines has the most islands.", "label": 0, "entity": "Philippines", "predicate": "distinction", "object": "most islands", "domain": "geo"}
+{"text": "Chile has the longest coastline in South America.", "label": 1, "entity": "Chile", "predicate": "coastline", "object": "longest in South America", "domain": "geo"}
+{"text": "Brazil has the longest coastline in South America.", "label": 0, "entity": "Brazil", "predicate": "coastline", "object": "longest in South America", "domain": "geo"}
+{"text": "The Rhine flows through six countries.", "label": 1, "entity": "Rhine", "predicate": "countries", "object": "6", "domain": "geo"}
+{"text": "The Rhine flows through four countries.", "label": 0, "entity": "Rhine", "predicate": "countries", "object": "4", "domain": "geo"}
+{"text": "Australia is both a country and a continent.", "label": 1, "entity": "Australia", "predicate": "classification", "object": "country and continent", "domain": "geo"}
+{"text": "Australia is only a continent.", "label": 0, "entity": "Australia", "predicate": "classification", "object": "only continent", "domain": "geo"}
+{"text": "Iceland is on two tectonic plates.", "label": 1, "entity": "Iceland", "predicate": "tectonic_plates", "object": "2", "domain": "geo"}
+{"text": "Iceland is on one tectonic plate.", "label": 0, "entity": "Iceland", "predicate": "tectonic_plates", "object": "1", "domain": "geo"}
+{"text": "The Panama Canal connects two oceans.", "label": 1, "entity": "Panama Canal", "predicate": "connects", "object": "two oceans", "domain": "geo"}
+{"text": "The Panama Canal connects two seas.", "label": 0, "entity": "Panama Canal", "predicate": "connects", "object": "two seas", "domain": "geo"}
+{"text": "Madagascar is the fourth largest island.", "label": 1, "entity": "Madagascar", "predicate": "island_rank", "object": "fourth largest", "domain": "geo"}
+{"text": "Madagascar is the second largest island.", "label": 0, "entity": "Madagascar", "predicate": "island_rank", "object": "second largest", "domain": "geo"}
+{"text": "The Danube flows through ten countries.", "label": 1, "entity": "Danube", "predicate": "countries", "object": "10", "domain": "geo"}
+{"text": "The Danube flows through eight countries.", "label": 0, "entity": "Danube", "predicate": "countries", "object": "8", "domain": "geo"}
+{"text": "Lake Victoria is Africa's largest lake.", "label": 1, "entity": "Lake Victoria", "predicate": "size", "object": "Africa's largest", "domain": "geo"}
+{"text": "Lake Tanganyika is Africa's largest lake.", "label": 0, "entity": "Lake Tanganyika", "predicate": "size", "object": "Africa's largest", "domain": "geo"}
+{"text": "The Maldives is the flattest country.", "label": 1, "entity": "Maldives", "predicate": "topography", "object": "flattest country", "domain": "geo"}
+{"text": "Netherlands is the flattest country.", "label": 0, "entity": "Netherlands", "predicate": "topography", "object": "flattest country", "domain": "geo"}
+{"text": "Russia spans 11 time zones.", "label": 1, "entity": "Russia", "predicate": "time_zones", "object": "11", "domain": "geo"}
+{"text": "Russia spans 9 time zones.", "label": 0, "entity": "Russia", "predicate": "time_zones", "object": "9", "domain": "geo"}
+{"text": "The Strait of Gibraltar is 14 km wide.", "label": 1, "entity": "Strait of Gibraltar", "predicate": "width", "object": "14 km", "domain": "geo"}
+{"text": "The Strait of Gibraltar is 30 km wide.", "label": 0, "entity": "Strait of Gibraltar", "predicate": "width", "object": "30 km", "domain": "geo"}
+{"text": "Angel Falls is in Venezuela.", "label": 1, "entity": "Angel Falls", "predicate": "location", "object": "Venezuela", "domain": "geo"}
+{"text": "Angel Falls is in Brazil.", "label": 0, "entity": "Angel Falls", "predicate": "location", "object": "Brazil", "domain": "geo"}
+{"text": "The Great Lakes contain 21% of fresh water.", "label": 1, "entity": "Great Lakes", "predicate": "fresh_water_percentage", "object": "21%", "domain": "geo"}
+{"text": "The Great Lakes contain 50% of fresh water.", "label": 0, "entity": "Great Lakes", "predicate": "fresh_water_percentage", "object": "50%", "domain": "geo"}
+{"text": "Mount Kilimanjaro has three volcanic cones.", "label": 1, "entity": "Mount Kilimanjaro", "predicate": "volcanic_cones", "object": "3", "domain": "geo"}
+{"text": "Mount Kilimanjaro has two volcanic cones.", "label": 0, "entity": "Mount Kilimanjaro", "predicate": "volcanic_cones", "object": "2", "domain": "geo"}
+{"text": "The Bermuda Triangle is in the Atlantic Ocean.", "label": 1, "entity": "Bermuda Triangle", "predicate": "location", "object": "Atlantic Ocean", "domain": "geo"}
+{"text": "The Bermuda Triangle is in the Pacific Ocean.", "label": 0, "entity": "Bermuda Triangle", "predicate": "location", "object": "Pacific Ocean", "domain": "geo"}
+{"text": "Sicily is the largest Mediterranean island.", "label": 1, "entity": "Sicily", "predicate": "size", "object": "largest Mediterranean island", "domain": "geo"}
+{"text": "Sardinia is the largest Mediterranean island.", "label": 0, "entity": "Sardinia", "predicate": "size", "object": "largest Mediterranean island", "domain": "geo"}
+{"text": "The Gobi Desert spans China and Mongolia.", "label": 1, "entity": "Gobi Desert", "predicate": "location", "object": "China and Mongolia", "domain": "geo"}
+{"text": "The Gobi Desert spans India and Pakistan.", "label": 0, "entity": "Gobi Desert", "predicate": "location", "object": "India and Pakistan", "domain": "geo"}
+{"text": "New Zealand has two main islands.", "label": 1, "entity": "New Zealand", "predicate": "main_islands", "object": "2", "domain": "geo"}
+{"text": "New Zealand has three main islands.", "label": 0, "entity": "New Zealand", "predicate": "main_islands", "object": "3", "domain": "geo"}
+{"text": "The Alps span eight countries.", "label": 1, "entity": "Alps", "predicate": "countries", "object": "8", "domain": "geo"}
+{"text": "The Alps span six countries.", "label": 0, "entity": "Alps", "predicate": "countries", "object": "6", "domain": "geo"}
+{"text": "Hawaii is the southernmost U.S. state.", "label": 1, "entity": "Hawaii", "predicate": "position", "object": "southernmost U.S. state", "domain": "geo"}
+{"text": "Florida is the southernmost U.S. state.", "label": 0, "entity": "Florida", "predicate": "position", "object": "southernmost U.S. state", "domain": "geo"}
+{"text": "Alaska is the northernmost U.S. state.", "label": 1, "entity": "Alaska", "predicate": "position", "object": "northernmost U.S. state", "domain": "geo"}
+{"text": "Maine is the northernmost U.S. state.", "label": 0, "entity": "Maine", "predicate": "position", "object": "northernmost U.S. state", "domain": "geo"}
+{"text": "The Atacama Desert is in Chile.", "label": 1, "entity": "Atacama Desert", "predicate": "location", "object": "Chile", "domain": "geo"}
+{"text": "The Atacama Desert is in Peru.", "label": 0, "entity": "Atacama Desert", "predicate": "location", "object": "Peru", "domain": "geo"}
+{"text": "The Black Sea borders six countries.", "label": 1, "entity": "Black Sea", "predicate": "bordering_countries", "object": "6", "domain": "geo"}
+{"text": "The Black Sea borders four countries.", "label": 0, "entity": "Black Sea", "predicate": "bordering_countries", "object": "4", "domain": "geo"}
+{"text": "Mont Blanc is the highest peak in Western Europe.", "label": 1, "entity": "Mont Blanc", "predicate": "distinction", "object": "highest peak in Western Europe", "domain": "geo"}
+{"text": "The Matterhorn is the highest peak in Western Europe.", "label": 0, "entity": "Matterhorn", "predicate": "distinction", "object": "highest peak in Western Europe", "domain": "geo"}
+{"text": "The Mississippi River flows south.", "label": 1, "entity": "Mississippi River", "predicate": "flow_direction", "object": "south", "domain": "geo"}
+{"text": "The Mississippi River flows north.", "label": 0, "entity": "Mississippi River", "predicate": "flow_direction", "object": "north", "domain": "geo"}
+{"text": "Death Valley is below sea level.", "label": 1, "entity": "Death Valley", "predicate": "elevation", "object": "below sea level", "domain": "geo"}
+{"text": "Death Valley is above sea level.", "label": 0, "entity": "Death Valley", "predicate": "elevation", "object": "above sea level", "domain": "geo"}
+{"text": "The Ring of Fire surrounds the Pacific Ocean.", "label": 1, "entity": "Ring of Fire", "predicate": "location", "object": "surrounds Pacific Ocean", "domain": "geo"}
+{"text": "The Ring of Fire surrounds the Atlantic Ocean.", "label": 0, "entity": "Ring of Fire", "predicate": "location", "object": "surrounds Atlantic Ocean", "domain": "geo"}
+{"text": "Cyprus is divided between two countries.", "label": 1, "entity": "Cyprus", "predicate": "division", "object": "two countries", "domain": "geo"}
+{"text": "Cyprus is united under one country.", "label": 0, "entity": "Cyprus", "predicate": "status", "object": "united under one country", "domain": "geo"}
+{"text": "The Equator passes through 13 countries.", "label": 1, "entity": "Equator", "predicate": "countries", "object": "13", "domain": "geo"}
+{"text": "The Equator passes through 10 countries.", "label": 0, "entity": "Equator", "predicate": "countries", "object": "10", "domain": "geo"}
+{"text": "Marie Curie won two Nobel Prizes.", "label": 1, "entity": "Marie Curie", "predicate": "nobel_prizes", "object": "2", "domain": "bio"}
+{"text": "Marie Curie won three Nobel Prizes.", "label": 0, "entity": "Marie Curie", "predicate": "nobel_prizes", "object": "3", "domain": "bio"}
+{"text": "Linus Pauling won Nobel Prizes in two fields.", "label": 1, "entity": "Linus Pauling", "predicate": "nobel_fields", "object": "2", "domain": "bio"}
+{"text": "Linus Pauling won Nobel Prizes in three fields.", "label": 0, "entity": "Linus Pauling", "predicate": "nobel_fields", "object": "3", "domain": "bio"}
+{"text": "Malala Yousafzai is the youngest Nobel laureate.", "label": 1, "entity": "Malala Yousafzai", "predicate": "distinction", "object": "youngest Nobel laureate", "domain": "bio"}
+{"text": "Greta Thunberg is the youngest Nobel laureate.", "label": 0, "entity": "Greta Thunberg", "predicate": "distinction", "object": "youngest Nobel laureate", "domain": "bio"}
+{"text": "Barack Obama was the 44th U.S. President.", "label": 1, "entity": "Barack Obama", "predicate": "presidency_number", "object": "44th", "domain": "bio"}
+{"text": "Barack Obama was the 43rd U.S. President.", "label": 0, "entity": "Barack Obama", "predicate": "presidency_number", "object": "43rd", "domain": "bio"}
+{"text": "Queen Elizabeth II reigned for 70 years.", "label": 1, "entity": "Queen Elizabeth II", "predicate": "reign_duration", "object": "70 years", "domain": "bio"}
+{"text": "Queen Elizabeth II reigned for 65 years.", "label": 0, "entity": "Queen Elizabeth II", "predicate": "reign_duration", "object": "65 years", "domain": "bio"}
+{"text": "Confucius lived in the 6th century BC.", "label": 1, "entity": "Confucius", "predicate": "century", "object": "6th century BC", "domain": "bio"}
+{"text": "Confucius lived in the 4th century BC.", "label": 0, "entity": "Confucius", "predicate": "century", "object": "4th century BC", "domain": "bio"}
+{"text": "Plato was Aristotle's teacher.", "label": 1, "entity": "Plato", "predicate": "relationship", "object": "Aristotle's teacher", "domain": "bio"}
+{"text": "Aristotle was Plato's teacher.", "label": 0, "entity": "Aristotle", "predicate": "relationship", "object": "Plato's teacher", "domain": "bio"}
+{"text": "Socrates taught Plato.", "label": 1, "entity": "Socrates", "predicate": "taught", "object": "Plato", "domain": "bio"}
+{"text": "Plato taught Socrates.", "label": 0, "entity": "Plato", "predicate": "taught", "object": "Socrates", "domain": "bio"}
+{"text": "Julius Caesar was assassinated in 44 BC.", "label": 1, "entity": "Julius Caesar", "predicate": "assassination_year", "object": "44 BC", "domain": "bio"}
+{"text": "Julius Caesar was assassinated in 42 BC.", "label": 0, "entity": "Julius Caesar", "predicate": "assassination_year", "object": "42 BC", "domain": "bio"}
+{"text": "Cleopatra was the last pharaoh of Egypt.", "label": 1, "entity": "Cleopatra", "predicate": "distinction", "object": "last pharaoh of Egypt", "domain": "bio"}
+{"text": "Nefertiti was the last pharaoh of Egypt.", "label": 0, "entity": "Nefertiti", "predicate": "distinction", "object": "last pharaoh of Egypt", "domain": "bio"}
+{"text": "Alexander the Great died at age 32.", "label": 1, "entity": "Alexander the Great", "predicate": "death_age", "object": "32", "domain": "bio"}
+{"text": "Alexander the Great died at age 35.", "label": 0, "entity": "Alexander the Great", "predicate": "death_age", "object": "35", "domain": "bio"}
+{"text": "Genghis Khan founded the Mongol Empire.", "label": 1, "entity": "Genghis Khan", "predicate": "founded", "object": "Mongol Empire", "domain": "bio"}
+{"text": "Kublai Khan founded the Mongol Empire.", "label": 0, "entity": "Kublai Khan", "predicate": "founded", "object": "Mongol Empire", "domain": "bio"}
+{"text": "Marco Polo traveled to China.", "label": 1, "entity": "Marco Polo", "predicate": "traveled_to", "object": "China", "domain": "bio"}
+{"text": "Marco Polo traveled to Japan.", "label": 0, "entity": "Marco Polo", "predicate": "traveled_to", "object": "Japan", "domain": "bio"}
+{"text": "Joan of Arc was 19 when she died.", "label": 1, "entity": "Joan of Arc", "predicate": "death_age", "object": "19", "domain": "bio"}
+{"text": "Joan of Arc was 25 when she died.", "label": 0, "entity": "Joan of Arc", "predicate": "death_age", "object": "25", "domain": "bio"}
+{"text": "Michelangelo painted the Sistine Chapel ceiling.", "label": 1, "entity": "Michelangelo", "predicate": "painted", "object": "Sistine Chapel ceiling", "domain": "bio"}
+{"text": "Leonardo da Vinci painted the Sistine Chapel ceiling.", "label": 0, "entity": "Leonardo da Vinci", "predicate": "painted", "object": "Sistine Chapel ceiling", "domain": "bio"}
+{"text": "Rembrandt was Dutch.", "label": 1, "entity": "Rembrandt", "predicate": "nationality", "object": "Dutch", "domain": "bio"}
+{"text": "Rembrandt was German.", "label": 0, "entity": "Rembrandt", "predicate": "nationality", "object": "German", "domain": "bio"}
+{"text": "Dante wrote The Divine Comedy.", "label": 1, "entity": "Dante", "predicate": "wrote", "object": "The Divine Comedy", "domain": "bio"}
+{"text": "Dante wrote The Canterbury Tales.", "label": 0, "entity": "Dante", "predicate": "wrote", "object": "The Canterbury Tales", "domain": "bio"}
+{"text": "Chaucer wrote The Canterbury Tales.", "label": 1, "entity": "Chaucer", "predicate": "wrote", "object": "The Canterbury Tales", "domain": "bio"}
+{"text": "Chaucer wrote The Divine Comedy.", "label": 0, "entity": "Chaucer", "predicate": "wrote", "object": "The Divine Comedy", "domain": "bio"}
+{"text": "Cervantes wrote Don Quixote.", "label": 1, "entity": "Cervantes", "predicate": "wrote", "object": "Don Quixote", "domain": "bio"}
+{"text": "Cervantes wrote The Three Musketeers.", "label": 0, "entity": "Cervantes", "predicate": "wrote", "object": "The Three Musketeers", "domain": "bio"}
+{"text": "Alexandre Dumas wrote The Three Musketeers.", "label": 1, "entity": "Alexandre Dumas", "predicate": "wrote", "object": "The Three Musketeers", "domain": "bio"}
+{"text": "Alexandre Dumas wrote Don Quixote.", "label": 0, "entity": "Alexandre Dumas", "predicate": "wrote", "object": "Don Quixote", "domain": "bio"}
+{"text": "Victor Hugo wrote Les Misérables.", "label": 1, "entity": "Victor Hugo", "predicate": "wrote", "object": "Les Misérables", "domain": "bio"}
+{"text": "Victor Hugo wrote The Count of Monte Cristo.", "label": 0, "entity": "Victor Hugo", "predicate": "wrote", "object": "The Count of Monte Cristo", "domain": "bio"}
+{"text": "Charles Dickens wrote A Christmas Carol.", "label": 1, "entity": "Charles Dickens", "predicate": "wrote", "object": "A Christmas Carol", "domain": "bio"}
+{"text": "Charles Dickens wrote Jane Eyre.", "label": 0, "entity": "Charles Dickens", "predicate": "wrote", "object": "Jane Eyre", "domain": "bio"}
+{"text": "Charlotte Brontë wrote Jane Eyre.", "label": 1, "entity": "Charlotte Brontë", "predicate": "wrote", "object": "Jane Eyre", "domain": "bio"}
+{"text": "Charlotte Brontë wrote Wuthering Heights.", "label": 0, "entity": "Charlotte Brontë", "predicate": "wrote", "object": "Wuthering Heights", "domain": "bio"}
+{"text": "Emily Brontë wrote Wuthering Heights.", "label": 1, "entity": "Emily Brontë", "predicate": "wrote", "object": "Wuthering Heights", "domain": "bio"}
+{"text": "Emily Brontë wrote Jane Eyre.", "label": 0, "entity": "Emily Brontë", "predicate": "wrote", "object": "Jane Eyre", "domain": "bio"}
+{"text": "Jane Austen wrote Pride and Prejudice.", "label": 1, "entity": "Jane Austen", "predicate": "wrote", "object": "Pride and Prejudice", "domain": "bio"}
+{"text": "Jane Austen wrote Little Women.", "label": 0, "entity": "Jane Austen", "predicate": "wrote", "object": "Little Women", "domain": "bio"}
+{"text": "Louisa May Alcott wrote Little Women.", "label": 1, "entity": "Louisa May Alcott", "predicate": "wrote", "object": "Little Women", "domain": "bio"}
+{"text": "Louisa May Alcott wrote Pride and Prejudice.", "label": 0, "entity": "Louisa May Alcott", "predicate": "wrote", "object": "Pride and Prejudice", "domain": "bio"}
+{"text": "Mark Twain's real name was Samuel Clemens.", "label": 1, "entity": "Mark Twain", "predicate": "real_name", "object": "Samuel Clemens", "domain": "bio"}
+{"text": "Mark Twain's real name was William Porter.", "label": 0, "entity": "Mark Twain", "predicate": "real_name", "object": "William Porter", "domain": "bio"}
+{"text": "O. Henry's real name was William Porter.", "label": 1, "entity": "O. Henry", "predicate": "real_name", "object": "William Porter", "domain": "bio"}
+{"text": "O. Henry's real name was Samuel Clemens.", "label": 0, "entity": "O. Henry", "predicate": "real_name", "object": "Samuel Clemens", "domain": "bio"}
+{"text": "Edgar Allan Poe wrote The Raven.", "label": 1, "entity": "Edgar Allan Poe", "predicate": "wrote", "object": "The Raven", "domain": "bio"}
+{"text": "Edgar Allan Poe wrote The Road Not Taken.", "label": 0, "entity": "Edgar Allan Poe", "predicate": "wrote", "object": "The Road Not Taken", "domain": "bio"}
+{"text": "Robert Frost wrote The Road Not Taken.", "label": 1, "entity": "Robert Frost", "predicate": "wrote", "object": "The Road Not Taken", "domain": "bio"}
+{"text": "Robert Frost wrote The Raven.", "label": 0, "entity": "Robert Frost", "predicate": "wrote", "object": "The Raven", "domain": "bio"}
+{"text": "The Rosetta Stone was discovered in 1799.", "label": 1, "entity": "Rosetta Stone", "predicate": "discovery_year", "object": "1799", "domain": "date"}
+{"text": "The Rosetta Stone was discovered in 1899.", "label": 0, "entity": "Rosetta Stone", "predicate": "discovery_year", "object": "1899", "domain": "date"}
+{"text": "The Dead Sea Scrolls were found in 1947.", "label": 1, "entity": "Dead Sea Scrolls", "predicate": "discovery_year", "object": "1947", "domain": "date"}
+{"text": "The Dead Sea Scrolls were found in 1847.", "label": 0, "entity": "Dead Sea Scrolls", "predicate": "discovery_year", "object": "1847", "domain": "date"}
+{"text": "Pompeii was destroyed in 79 AD.", "label": 1, "entity": "Pompeii", "predicate": "destruction_year", "object": "79 AD", "domain": "date"}
+{"text": "Pompeii was destroyed in 179 AD.", "label": 0, "entity": "Pompeii", "predicate": "destruction_year", "object": "179 AD", "domain": "date"}
+{"text": "The Colosseum was built in the 1st century.", "label": 1, "entity": "Colosseum", "predicate": "built_century", "object": "1st", "domain": "date"}
+{"text": "The Colosseum was built in the 2nd century.", "label": 0, "entity": "Colosseum", "predicate": "built_century", "object": "2nd", "domain": "date"}
+{"text": "The Parthenon was built in the 5th century BC.", "label": 1, "entity": "Parthenon", "predicate": "built_century", "object": "5th century BC", "domain": "date"}
+{"text": "The Parthenon was built in the 3rd century BC.", "label": 0, "entity": "Parthenon", "predicate": "built_century", "object": "3rd century BC", "domain": "date"}
+{"text": "Stonehenge is about 5,000 years old.", "label": 1, "entity": "Stonehenge", "predicate": "age", "object": "5,000 years", "domain": "date"}
+{"text": "Stonehenge is about 3,000 years old.", "label": 0, "entity": "Stonehenge", "predicate": "age", "object": "3,000 years", "domain": "date"}
+{"text": "The Great Pyramid is about 4,500 years old.", "label": 1, "entity": "Great Pyramid", "predicate": "age", "object": "4,500 years", "domain": "date"}
+{"text": "The Great Pyramid is about 3,000 years old.", "label": 0, "entity": "Great Pyramid", "predicate": "age", "object": "3,000 years", "domain": "date"}
+{"text": "Machu Picchu was built in the 15th century.", "label": 1, "entity": "Machu Picchu", "predicate": "built_century", "object": "15th", "domain": "date"}
+{"text": "Machu Picchu was built in the 13th century.", "label": 0, "entity": "Machu Picchu", "predicate": "built_century", "object": "13th", "domain": "date"}
+{"text": "The Taj Mahal was completed in 1653.", "label": 1, "entity": "Taj Mahal", "predicate": "completion_year", "object": "1653", "domain": "date"}
+{"text": "The Taj Mahal was completed in 1753.", "label": 0, "entity": "Taj Mahal", "predicate": "completion_year", "object": "1753", "domain": "date"}
+{"text": "The Forbidden City was built in the 15th century.", "label": 1, "entity": "Forbidden City", "predicate": "built_century", "object": "15th", "domain": "date"}
+{"text": "The Forbidden City was built in the 17th century.", "label": 0, "entity": "Forbidden City", "predicate": "built_century", "object": "17th", "domain": "date"}
+{"text": "Angkor Wat was built in the 12th century.", "label": 1, "entity": "Angkor Wat", "predicate": "built_century", "object": "12th", "domain": "date"}
+{"text": "Angkor Wat was built in the 14th century.", "label": 0, "entity": "Angkor Wat", "predicate": "built_century", "object": "14th", "domain": "date"}
+{"text": "The Alhambra was built in the 13th century.", "label": 1, "entity": "Alhambra", "predicate": "built_century", "object": "13th", "domain": "date"}
+{"text": "The Alhambra was built in the 15th century.", "label": 0, "entity": "Alhambra", "predicate": "built_century", "object": "15th", "domain": "date"}
+{"text": "Notre-Dame de Paris was built over 200 years.", "label": 1, "entity": "Notre-Dame de Paris", "predicate": "construction_time", "object": "over 200 years", "domain": "date"}
+{"text": "Notre-Dame de Paris was built in 50 years.", "label": 0, "entity": "Notre-Dame de Paris", "predicate": "construction_time", "object": "50 years", "domain": "date"}
+{"text": "The Sydney Opera House opened in 1973.", "label": 1, "entity": "Sydney Opera House", "predicate": "opening_year", "object": "1973", "domain": "date"}
+{"text": "The Sydney Opera House opened in 1983.", "label": 0, "entity": "Sydney Opera House", "predicate": "opening_year", "object": "1983", "domain": "date"}
+{"text": "The Empire State Building was built in 410 days.", "label": 1, "entity": "Empire State Building", "predicate": "construction_time", "object": "410 days", "domain": "date"}
+{"text": "The Empire State Building was built in 2 years.", "label": 0, "entity": "Empire State Building", "predicate": "construction_time", "object": "2 years", "domain": "date"}
+{"text": "The Golden Gate Bridge opened in 1937.", "label": 1, "entity": "Golden Gate Bridge", "predicate": "opening_year", "object": "1937", "domain": "date"}
+{"text": "The Golden Gate Bridge opened in 1947.", "label": 0, "entity": "Golden Gate Bridge", "predicate": "opening_year", "object": "1947", "domain": "date"}
+{"text": "The Channel Tunnel opened in 1994.", "label": 1, "entity": "Channel Tunnel", "predicate": "opening_year", "object": "1994", "domain": "date"}
+{"text": "The Channel Tunnel opened in 1984.", "label": 0, "entity": "Channel Tunnel", "predicate": "opening_year", "object": "1984", "domain": "date"}
+{"text": "The Brooklyn Bridge opened in 1883.", "label": 1, "entity": "Brooklyn Bridge", "predicate": "opening_year", "object": "1883", "domain": "date"}
+{"text": "The Brooklyn Bridge opened in 1893.", "label": 0, "entity": "Brooklyn Bridge", "predicate": "opening_year", "object": "1893", "domain": "date"}
+{"text": "The Hoover Dam was completed in 1936.", "label": 1, "entity": "Hoover Dam", "predicate": "completion_year", "object": "1936", "domain": "date"}
+{"text": "The Hoover Dam was completed in 1946.", "label": 0, "entity": "Hoover Dam", "predicate": "completion_year", "object": "1946", "domain": "date"}
+{"text": "Mount Vesuvius last erupted in 1944.", "label": 1, "entity": "Mount Vesuvius", "predicate": "last_eruption", "object": "1944", "domain": "date"}
+{"text": "Mount Vesuvius last erupted in 1964.", "label": 0, "entity": "Mount Vesuvius", "predicate": "last_eruption", "object": "1964", "domain": "date"}
+{"text": "The Krakatoa eruption was in 1883.", "label": 1, "entity": "Krakatoa", "predicate": "eruption_year", "object": "1883", "domain": "date"}
+{"text": "The Krakatoa eruption was in 1783.", "label": 0, "entity": "Krakatoa", "predicate": "eruption_year", "object": "1783", "domain": "date"}
+{"text": "Mount St. Helens erupted in 1980.", "label": 1, "entity": "Mount St. Helens", "predicate": "eruption_year", "object": "1980", "domain": "date"}
+{"text": "Mount St. Helens erupted in 1990.", "label": 0, "entity": "Mount St. Helens", "predicate": "eruption_year", "object": "1990", "domain": "date"}
+{"text": "The Chernobyl disaster was in 1986.", "label": 1, "entity": "Chernobyl disaster", "predicate": "year", "object": "1986", "domain": "date"}
+{"text": "The Chernobyl disaster was in 1985.", "label": 0, "entity": "Chernobyl disaster", "predicate": "year", "object": "1985", "domain": "date"}
+{"text": "The Fukushima disaster was in 2011.", "label": 1, "entity": "Fukushima disaster", "predicate": "year", "object": "2011", "domain": "date"}
+{"text": "The Fukushima disaster was in 2010.", "label": 0, "entity": "Fukushima disaster", "predicate": "year", "object": "2010", "domain": "date"}
+{"text": "Hurricane Katrina was in 2005.", "label": 1, "entity": "Hurricane Katrina", "predicate": "year", "object": "2005", "domain": "date"}
+{"text": "Hurricane Katrina was in 2004.", "label": 0, "entity": "Hurricane Katrina", "predicate": "year", "object": "2004", "domain": "date"}
+{"text": "The 2004 Indian Ocean tsunami was on December 26.", "label": 1, "entity": "2004 Indian Ocean tsunami", "predicate": "date", "object": "December 26", "domain": "date"}
+{"text": "The 2004 Indian Ocean tsunami was on December 24.", "label": 0, "entity": "2004 Indian Ocean tsunami", "predicate": "date", "object": "December 24", "domain": "date"}
+{"text": "The Haiti earthquake was in 2010.", "label": 1, "entity": "Haiti earthquake", "predicate": "year", "object": "2010", "domain": "date"}
+{"text": "The Haiti earthquake was in 2009.", "label": 0, "entity": "Haiti earthquake", "predicate": "year", "object": "2009", "domain": "date"}
+{"text": "The 1906 San Francisco earthquake was in April.", "label": 1, "entity": "1906 San Francisco earthquake", "predicate": "month", "object": "April", "domain": "date"}
+{"text": "The 1906 San Francisco earthquake was in May.", "label": 0, "entity": "1906 San Francisco earthquake", "predicate": "month", "object": "May", "domain": "date"}
+{"text": "The Hindenburg disaster was in 1937.", "label": 1, "entity": "Hindenburg disaster", "predicate": "year", "object": "1937", "domain": "date"}
+{"text": "The Hindenburg disaster was in 1936.", "label": 0, "entity": "Hindenburg disaster", "predicate": "year", "object": "1936", "domain": "date"}
+{"text": "The Challenger disaster was in 1986.", "label": 1, "entity": "Challenger disaster", "predicate": "year", "object": "1986", "domain": "date"}
+{"text": "The Challenger disaster was in 1985.", "label": 0, "entity": "Challenger disaster", "predicate": "year", "object": "1985", "domain": "date"}
+{"text": "The Columbia disaster was in 2003.", "label": 1, "entity": "Columbia disaster", "predicate": "year", "object": "2003", "domain": "date"}
+{"text": "The Columbia disaster was in 2002.", "label": 0, "entity": "Columbia disaster", "predicate": "year", "object": "2002", "domain": "date"}
+{"text": "September 11 attacks were in 2001.", "label": 1, "entity": "September 11 attacks", "predicate": "year", "object": "2001", "domain": "date"}
+{"text": "September 11 attacks were in 2000.", "label": 0, "entity": "September 11 attacks", "predicate": "year", "object": "2000", "domain": "date"}
+{"text": "The Oklahoma City bombing was in 1995.", "label": 1, "entity": "Oklahoma City bombing", "predicate": "year", "object": "1995", "domain": "date"}
+{"text": "The Oklahoma City bombing was in 1994.", "label": 0, "entity": "Oklahoma City bombing", "predicate": "year", "object": "1994", "domain": "date"}
+{"text": "JFK was assassinated in 1963.", "label": 1, "entity": "JFK", "predicate": "assassination_year", "object": "1963", "domain": "date"}
+{"text": "JFK was assassinated in 1964.", "label": 0, "entity": "JFK", "predicate": "assassination_year", "object": "1964", "domain": "date"}
+{"text": "Martin Luther King Jr. was assassinated in 1968.", "label": 1, "entity": "Martin Luther King Jr.", "predicate": "assassination_year", "object": "1968", "domain": "date"}
+{"text": "Martin Luther King Jr. was assassinated in 1969.", "label": 0, "entity": "Martin Luther King Jr.", "predicate": "assassination_year", "object": "1969", "domain": "date"}
+{"text": "Princess Diana died in 1997.", "label": 1, "entity": "Princess Diana", "predicate": "death_year", "object": "1997", "domain": "date"}
+{"text": "Princess Diana died in 1996.", "label": 0, "entity": "Princess Diana", "predicate": "death_year", "object": "1996", "domain": "date"}
+{"text": "Michael Jackson died in 2009.", "label": 1, "entity": "Michael Jackson", "predicate": "death_year", "object": "2009", "domain": "date"}
+{"text": "Michael Jackson died in 2008.", "label": 0, "entity": "Michael Jackson", "predicate": "death_year", "object": "2008", "domain": "date"}
+{"text": "Elvis Presley died in 1977.", "label": 1, "entity": "Elvis Presley", "predicate": "death_year", "object": "1977", "domain": "date"}
+{"text": "Elvis Presley died in 1978.", "label": 0, "entity": "Elvis Presley", "predicate": "death_year", "object": "1978", "domain": "date"}
+{"text": "John Lennon died in 1980.", "label": 1, "entity": "John Lennon", "predicate": "death_year", "object": "1980", "domain": "date"}
+{"text": "John Lennon died in 1981.", "label": 0, "entity": "John Lennon", "predicate": "death_year", "object": "1981", "domain": "date"}
+{"text": "The Jazz Singer was the first talkie in 1927.", "label": 1, "entity": "The Jazz Singer", "predicate": "release_year", "object": "1927", "domain": "date"}
+{"text": "The Jazz Singer was the first talkie in 1929.", "label": 0, "entity": "The Jazz Singer", "predicate": "release_year", "object": "1929", "domain": "date"}
+{"text": "Gone with the Wind premiered in 1939.", "label": 1, "entity": "Gone with the Wind", "predicate": "premiere_year", "object": "1939", "domain": "date"}
+{"text": "Gone with the Wind premiered in 1940.", "label": 0, "entity": "Gone with the Wind", "predicate": "premiere_year", "object": "1940", "domain": "date"}
+{"text": "Citizen Kane was released in 1941.", "label": 1, "entity": "Citizen Kane", "predicate": "release_year", "object": "1941", "domain": "date"}
+{"text": "Citizen Kane was released in 1942.", "label": 0, "entity": "Citizen Kane", "predicate": "release_year", "object": "1942", "domain": "date"}
+{"text": "The Wizard of Oz was released in 1939.", "label": 1, "entity": "The Wizard of Oz", "predicate": "release_year", "object": "1939", "domain": "date"}
+{"text": "The Wizard of Oz was released in 1938.", "label": 0, "entity": "The Wizard of Oz", "predicate": "release_year", "object": "1938", "domain": "date"}
+{"text": "Star Wars was released in 1977.", "label": 1, "entity": "Star Wars", "predicate": "release_year", "object": "1977", "domain": "date"}
+{"text": "Star Wars was released in 1978.", "label": 0, "entity": "Star Wars", "predicate": "release_year", "object": "1978", "domain": "date"}
+{"text": "E.T. was released in 1982.", "label": 1, "entity": "E.T.", "predicate": "release_year", "object": "1982", "domain": "date"}
+{"text": "E.T. was released in 1983.", "label": 0, "entity": "E.T.", "predicate": "release_year", "object": "1983", "domain": "date"}
+{"text": "Jurassic Park was released in 1993.", "label": 1, "entity": "Jurassic Park", "predicate": "release_year", "object": "1993", "domain": "date"}
+{"text": "Jurassic Park was released in 1994.", "label": 0, "entity": "Jurassic Park", "predicate": "release_year", "object": "1994", "domain": "date"}
+{"text": "Titanic was released in 1997.", "label": 1, "entity": "Titanic", "predicate": "release_year", "object": "1997", "domain": "date"}
+{"text": "Titanic was released in 1998.", "label": 0, "entity": "Titanic", "predicate": "release_year", "object": "1998", "domain": "date"}
+{"text": "Avatar was released in 2009.", "label": 1, "entity": "Avatar", "predicate": "release_year", "object": "2009", "domain": "date"}
+{"text": "Avatar was released in 2010.", "label": 0, "entity": "Avatar", "predicate": "release_year", "object": "2010", "domain": "date"}
+{"text": "The first Academy Awards were in 1929.", "label": 1, "entity": "Academy Awards", "predicate": "first_year", "object": "1929", "domain": "date"}
+{"text": "The first Academy Awards were in 1930.", "label": 0, "entity": "Academy Awards", "predicate": "first_year", "object": "1930", "domain": "date"}
+{"text": "Wimbledon is the oldest tennis tournament.", "label": 1, "entity": "Wimbledon", "predicate": "distinction", "object": "oldest tennis tournament", "domain": "sports"}
+{"text": "The US Open is the oldest tennis tournament.", "label": 0, "entity": "US Open", "predicate": "distinction", "object": "oldest tennis tournament", "domain": "sports"}
+{"text": "The Yankees have won 27 World Series.", "label": 1, "entity": "Yankees", "predicate": "world_series_wins", "object": "27", "domain": "sports"}
+{"text": "The Yankees have won 25 World Series.", "label": 0, "entity": "Yankees", "predicate": "world_series_wins", "object": "25", "domain": "sports"}
+{"text": "Real Madrid has won 14 Champions Leagues.", "label": 1, "entity": "Real Madrid", "predicate": "champions_leagues", "object": "14", "domain": "sports"}
+{"text": "Real Madrid has won 12 Champions Leagues.", "label": 0, "entity": "Real Madrid", "predicate": "champions_leagues", "object": "12", "domain": "sports"}
+{"text": "The Montreal Canadiens have won 24 Stanley Cups.", "label": 1, "entity": "Montreal Canadiens", "predicate": "stanley_cups", "object": "24", "domain": "sports"}
+{"text": "The Montreal Canadiens have won 22 Stanley Cups.", "label": 0, "entity": "Montreal Canadiens", "predicate": "stanley_cups", "object": "22", "domain": "sports"}
+{"text": "The Boston Celtics have won 17 NBA titles.", "label": 1, "entity": "Boston Celtics", "predicate": "nba_titles", "object": "17", "domain": "sports"}
+{"text": "The Boston Celtics have won 16 NBA titles.", "label": 0, "entity": "Boston Celtics", "predicate": "nba_titles", "object": "16", "domain": "sports"}
+{"text": "The All Blacks are New Zealand's rugby team.", "label": 1, "entity": "All Blacks", "predicate": "country", "object": "New Zealand", "domain": "sports"}
+{"text": "The All Blacks are Australia's rugby team.", "label": 0, "entity": "All Blacks", "predicate": "country", "object": "Australia", "domain": "sports"}
+{"text": "The Ashes is between England and Australia.", "label": 1, "entity": "The Ashes", "predicate": "teams", "object": "England and Australia", "domain": "sports"}
+{"text": "The Ashes is between England and India.", "label": 0, "entity": "The Ashes", "predicate": "teams", "object": "England and India", "domain": "sports"}
+{"text": "Pele scored over 1,000 career goals.", "label": 1, "entity": "Pele", "predicate": "career_goals", "object": "over 1,000", "domain": "sports"}
+{"text": "Pele scored over 800 career goals.", "label": 0, "entity": "Pele", "predicate": "career_goals", "object": "over 800", "domain": "sports"}
+{"text": "Diego Maradona played for Argentina.", "label": 1, "entity": "Diego Maradona", "predicate": "national_team", "object": "Argentina", "domain": "sports"}
+{"text": "Diego Maradona played for Brazil.", "label": 0, "entity": "Diego Maradona", "predicate": "national_team", "object": "Brazil", "domain": "sports"}
+{"text": "The Hand of God goal was in 1986.", "label": 1, "entity": "Hand of God goal", "predicate": "year", "object": "1986", "domain": "sports"}
+{"text": "The Hand of God goal was in 1982.", "label": 0, "entity": "Hand of God goal", "predicate": "year", "object": "1982", "domain": "sports"}
+{"text": "Bobby Fischer was American.", "label": 1, "entity": "Bobby Fischer", "predicate": "nationality", "object": "American", "domain": "sports"}
+{"text": "Bobby Fischer was Russian.", "label": 0, "entity": "Bobby Fischer", "predicate": "nationality", "object": "Russian", "domain": "sports"}
+{"text": "Garry Kasparov is Russian.", "label": 1, "entity": "Garry Kasparov", "predicate": "nationality", "object": "Russian", "domain": "sports"}
+{"text": "Garry Kasparov is American.", "label": 0, "entity": "Garry Kasparov", "predicate": "nationality", "object": "American", "domain": "sports"}
+{"text": "Magnus Carlsen is Norwegian.", "label": 1, "entity": "Magnus Carlsen", "predicate": "nationality", "object": "Norwegian", "domain": "sports"}
+{"text": "Magnus Carlsen is Swedish.", "label": 0, "entity": "Magnus Carlsen", "predicate": "nationality", "object": "Swedish", "domain": "sports"}
+{"text": "The Boston Marathon is held on Patriots' Day.", "label": 1, "entity": "Boston Marathon", "predicate": "date", "object": "Patriots' Day", "domain": "sports"}
+{"text": "The Boston Marathon is held on Independence Day.", "label": 0, "entity": "Boston Marathon", "predicate": "date", "object": "Independence Day", "domain": "sports"}
+{"text": "The Indianapolis 500 is held on Memorial Day weekend.", "label": 1, "entity": "Indianapolis 500", "predicate": "date", "object": "Memorial Day weekend", "domain": "sports"}
+{"text": "The Indianapolis 500 is held on Labor Day weekend.", "label": 0, "entity": "Indianapolis 500", "predicate": "date", "object": "Labor Day weekend", "domain": "sports"}
+{"text": "The Super Bowl is played on Sunday.", "label": 1, "entity": "Super Bowl", "predicate": "day", "object": "Sunday", "domain": "sports"}
+{"text": "The Super Bowl is played on Saturday.", "label": 0, "entity": "Super Bowl", "predicate": "day", "object": "Saturday", "domain": "sports"}
+{"text": "The World Cup is held every four years.", "label": 1, "entity": "World Cup", "predicate": "frequency", "object": "every four years", "domain": "sports"}
+{"text": "The World Cup is held every two years.", "label": 0, "entity": "World Cup", "predicate": "frequency", "object": "every two years", "domain": "sports"}
+{"text": "The Euro is held every four years.", "label": 1, "entity": "Euro", "predicate": "frequency", "object": "every four years", "domain": "sports"}
+{"text": "The Euro is held every three years.", "label": 0, "entity": "Euro", "predicate": "frequency", "object": "every three years", "domain": "sports"}
+{"text": "The Copa America is South America's tournament.", "label": 1, "entity": "Copa America", "predicate": "region", "object": "South America", "domain": "sports"}
+{"text": "The Copa America is North America's tournament.", "label": 0, "entity": "Copa America", "predicate": "region", "object": "North America", "domain": "sports"}
+{"text": "The Africa Cup is for African nations.", "label": 1, "entity": "Africa Cup", "predicate": "participants", "object": "African nations", "domain": "sports"}
+{"text": "The Africa Cup is for Asian nations.", "label": 0, "entity": "Africa Cup", "predicate": "participants", "object": "Asian nations", "domain": "sports"}
+{"text": "The Asian Games are held every four years.", "label": 1, "entity": "Asian Games", "predicate": "frequency", "object": "every four years", "domain": "sports"}
+{"text": "The Asian Games are held every five years.", "label": 0, "entity": "Asian Games", "predicate": "frequency", "object": "every five years", "domain": "sports"}
+{"text": "The Commonwealth Games include Commonwealth nations.", "label": 1, "entity": "Commonwealth Games", "predicate": "participants", "object": "Commonwealth nations", "domain": "sports"}
+{"text": "The Commonwealth Games include all nations.", "label": 0, "entity": "Commonwealth Games", "predicate": "participants", "object": "all nations", "domain": "sports"}
+{"text": "The Pan American Games are for the Americas.", "label": 1, "entity": "Pan American Games", "predicate": "region", "object": "Americas", "domain": "sports"}
+{"text": "The Pan American Games are for Asia.", "label": 0, "entity": "Pan American Games", "predicate": "region", "object": "Asia", "domain": "sports"}
+{"text": "Water freezes at 0°C.", "label": 1, "entity": "Water", "predicate": "freezing_point", "object": "0°C", "domain": "science"}
+{"text": "Water freezes at 4°C.", "label": 0, "entity": "Water", "predicate": "freezing_point", "object": "4°C", "domain": "science"}
+{"text": "The human body is about 60% water.", "label": 1, "entity": "Human body", "predicate": "water_percentage", "object": "60%", "domain": "science"}
+{"text": "The human body is about 40% water.", "label": 0, "entity": "Human body", "predicate": "water_percentage", "object": "40%", "domain": "science"}
+{"text": "Light travels in waves.", "label": 1, "entity": "Light", "predicate": "property", "object": "travels in waves", "domain": "science"}
+{"text": "Light only travels in straight lines.", "label": 0, "entity": "Light", "predicate": "property", "object": "only travels in straight lines", "domain": "science"}
+{"text": "Sound needs a medium to travel.", "label": 1, "entity": "Sound", "predicate": "requirement", "object": "medium to travel", "domain": "science"}
+{"text": "Sound can travel through vacuum.", "label": 0, "entity": "Sound", "predicate": "property", "object": "can travel through vacuum", "domain": "science"}
+{"text": "Metals conduct electricity.", "label": 1, "entity": "Metals", "predicate": "property", "object": "conduct electricity", "domain": "science"}
+{"text": "Metals insulate electricity.", "label": 0, "entity": "Metals", "predicate": "property", "object": "insulate electricity", "domain": "science"}
+{"text": "Magnets have north and south poles.", "label": 1, "entity": "Magnets", "predicate": "property", "object": "north and south poles", "domain": "science"}
+{"text": "Magnets have east and west poles.", "label": 0, "entity": "Magnets", "predicate": "property", "object": "east and west poles", "domain": "science"}
+{"text": "Opposite poles attract.", "label": 1, "entity": "Magnetic poles", "predicate": "behavior", "object": "opposites attract", "domain": "science"}
+{"text": "Opposite poles repel.", "label": 0, "entity": "Magnetic poles", "predicate": "behavior", "object": "opposites repel", "domain": "science"}
+{"text": "Energy cannot be created or destroyed.", "label": 1, "entity": "Energy", "predicate": "law", "object": "cannot be created or destroyed", "domain": "science"}
+{"text": "Energy can be created from nothing.", "label": 0, "entity": "Energy", "predicate": "property", "object": "can be created from nothing", "domain": "science"}
+{"text": "Matter exists in three main states.", "label": 1, "entity": "Matter", "predicate": "states", "object": "three main", "domain": "science"}
+{"text": "Matter exists in two main states.", "label": 0, "entity": "Matter", "predicate": "states", "object": "two main", "domain": "science"}
+{"text": "Plasma is the fourth state of matter.", "label": 1, "entity": "Plasma", "predicate": "classification", "object": "fourth state of matter", "domain": "science"}
+{"text": "Plasma is the third state of matter.", "label": 0, "entity": "Plasma", "predicate": "classification", "object": "third state of matter", "domain": "science"}
+{"text": "Atoms are made of protons, neutrons, and electrons.", "label": 1, "entity": "Atoms", "predicate": "components", "object": "protons, neutrons, electrons", "domain": "science"}
+{"text": "Atoms are made only of protons and electrons.", "label": 0, "entity": "Atoms", "predicate": "components", "object": "only protons and electrons", "domain": "science"}
+{"text": "The nucleus contains protons and neutrons.", "label": 1, "entity": "Nucleus", "predicate": "contains", "object": "protons and neutrons", "domain": "science"}
+{"text": "The nucleus contains electrons.", "label": 0, "entity": "Nucleus", "predicate": "contains", "object": "electrons", "domain": "science"}
+{"text": "Electrons orbit the nucleus.", "label": 1, "entity": "Electrons", "predicate": "behavior", "object": "orbit the nucleus", "domain": "science"}
+{"text": "Protons orbit the nucleus.", "label": 0, "entity": "Protons", "predicate": "behavior", "object": "orbit the nucleus", "domain": "science"}
+{"text": "Chemical reactions rearrange atoms.", "label": 1, "entity": "Chemical reactions", "predicate": "function", "object": "rearrange atoms", "domain": "science"}
+{"text": "Chemical reactions create new atoms.", "label": 0, "entity": "Chemical reactions", "predicate": "function", "object": "create new atoms", "domain": "science"}
+{"text": "Catalysts speed up reactions.", "label": 1, "entity": "Catalysts", "predicate": "function", "object": "speed up reactions", "domain": "science"}
+{"text": "Catalysts slow down reactions.", "label": 0, "entity": "Catalysts", "predicate": "function", "object": "slow down reactions", "domain": "science"}
+{"text": "Acids turn litmus paper red.", "label": 1, "entity": "Acids", "predicate": "effect", "object": "turn litmus red", "domain": "science"}
+{"text": "Acids turn litmus paper blue.", "label": 0, "entity": "Acids", "predicate": "effect", "object": "turn litmus blue", "domain": "science"}
+{"text": "Bases turn litmus paper blue.", "label": 1, "entity": "Bases", "predicate": "effect", "object": "turn litmus blue", "domain": "science"}
+{"text": "Bases turn litmus paper red.", "label": 0, "entity": "Bases", "predicate": "effect", "object": "turn litmus red", "domain": "science"}
+{"text": "Noble gases are unreactive.", "label": 1, "entity": "Noble gases", "predicate": "property", "object": "unreactive", "domain": "science"}
+{"text": "Noble gases are highly reactive.", "label": 0, "entity": "Noble gases", "predicate": "property", "object": "highly reactive", "domain": "science"}
+{"text": "Carbon forms four bonds.", "label": 1, "entity": "Carbon", "predicate": "bonding", "object": "four bonds", "domain": "science"}
+{"text": "Carbon forms two bonds.", "label": 0, "entity": "Carbon", "predicate": "bonding", "object": "two bonds", "domain": "science"}
+{"text": "Water molecules are polar.", "label": 1, "entity": "Water molecules", "predicate": "property", "object": "polar", "domain": "science"}
+{"text": "Water molecules are nonpolar.", "label": 0, "entity": "Water molecules", "predicate": "property", "object": "nonpolar", "domain": "science"}
+{"text": "Oil and water don't mix.", "label": 1, "entity": "Oil and water", "predicate": "property", "object": "don't mix", "domain": "science"}
+{"text": "Oil and water mix easily.", "label": 0, "entity": "Oil and water", "predicate": "property", "object": "mix easily", "domain": "science"}
+{"text": "Salt dissolves in water.", "label": 1, "entity": "Salt", "predicate": "property", "object": "dissolves in water", "domain": "science"}
+{"text": "Salt doesn't dissolve in water.", "label": 0, "entity": "Salt", "predicate": "property", "object": "doesn't dissolve in water", "domain": "science"}
+{"text": "Sugar is soluble in water.", "label": 1, "entity": "Sugar", "predicate": "property", "object": "soluble in water", "domain": "science"}
+{"text": "Sugar is insoluble in water.", "label": 0, "entity": "Sugar", "predicate": "property", "object": "insoluble in water", "domain": "science"}
+{"text": "Evaporation is liquid to gas.", "label": 1, "entity": "Evaporation", "predicate": "process", "object": "liquid to gas", "domain": "science"}
+{"text": "Evaporation is gas to liquid.", "label": 0, "entity": "Evaporation", "predicate": "process", "object": "gas to liquid", "domain": "science"}
+{"text": "Condensation is gas to liquid.", "label": 1, "entity": "Condensation", "predicate": "process", "object": "gas to liquid", "domain": "science"}
+{"text": "Condensation is liquid to gas.", "label": 0, "entity": "Condensation", "predicate": "process", "object": "liquid to gas", "domain": "science"}
+{"text": "Sublimation is solid to gas.", "label": 1, "entity": "Sublimation", "predicate": "process", "object": "solid to gas", "domain": "science"}
+{"text": "Sublimation is gas to solid.", "label": 0, "entity": "Sublimation", "predicate": "process", "object": "gas to solid", "domain": "science"}
+{"text": "Metals expand when heated.", "label": 1, "entity": "Metals", "predicate": "thermal_property", "object": "expand when heated", "domain": "science"}
+{"text": "Metals contract when heated.", "label": 0, "entity": "Metals", "predicate": "thermal_property", "object": "contract when heated", "domain": "science"}
+{"text": "Heat flows from hot to cold.", "label": 1, "entity": "Heat", "predicate": "flow_direction", "object": "hot to cold", "domain": "science"}
+{"text": "Heat flows from cold to hot.", "label": 0, "entity": "Heat", "predicate": "flow_direction", "object": "cold to hot", "domain": "science"}
+{"text": "Friction produces heat.", "label": 1, "entity": "Friction", "predicate": "effect", "object": "produces heat", "domain": "science"}
+{"text": "Friction reduces heat.", "label": 0, "entity": "Friction", "predicate": "effect", "object": "reduces heat", "domain": "science"}
+{"text": "Gravity pulls objects down.", "label": 1, "entity": "Gravity", "predicate": "effect", "object": "pulls objects down", "domain": "science"}
+{"text": "Gravity pushes objects up.", "label": 0, "entity": "Gravity", "predicate": "effect", "object": "pushes objects up", "domain": "science"}
+{"text": "Mass and weight are different.", "label": 1, "entity": "Mass and weight", "predicate": "relationship", "object": "different", "domain": "science"}
+{"text": "Mass and weight are the same.", "label": 0, "entity": "Mass and weight", "predicate": "relationship", "object": "the same", "domain": "science"}
+{"text": "Air resistance slows falling objects.", "label": 1, "entity": "Air resistance", "predicate": "effect", "object": "slows falling objects", "domain": "science"}
+{"text": "Air resistance speeds up falling objects.", "label": 0, "entity": "Air resistance", "predicate": "effect", "object": "speeds up falling objects", "domain": "science"}
+{"text": "Action and reaction are equal and opposite.", "label": 1, "entity": "Newton's third law", "predicate": "principle", "object": "equal and opposite", "domain": "science"}
+{"text": "Action and reaction are equal and same direction.", "label": 0, "entity": "Newton's third law", "predicate": "principle", "object": "equal and same direction", "domain": "science"}
+{"text": "Momentum is conserved in collisions.", "label": 1, "entity": "Momentum", "predicate": "property", "object": "conserved in collisions", "domain": "science"}
+{"text": "Momentum is lost in collisions.", "label": 0, "entity": "Momentum", "predicate": "property", "object": "lost in collisions", "domain": "science"}
+{"text": "Light can be refracted.", "label": 1, "entity": "Light", "predicate": "property", "object": "can be refracted", "domain": "science"}
+{"text": "Light cannot be refracted.", "label": 0, "entity": "Light", "predicate": "property", "object": "cannot be refracted", "domain": "science"}
+{"text": "White light contains all colors.", "label": 1, "entity": "White light", "predicate": "composition", "object": "all colors", "domain": "science"}
+{"text": "White light contains no colors.", "label": 0, "entity": "White light", "predicate": "composition", "object": "no colors", "domain": "science"}
+{"text": "Rainbows show light dispersion.", "label": 1, "entity": "Rainbows", "predicate": "demonstrate", "object": "light dispersion", "domain": "science"}
+{"text": "Rainbows show light absorption.", "label": 0, "entity": "Rainbows", "predicate": "demonstrate", "object": "light absorption", "domain": "science"}
+{"text": "Mirrors reflect light.", "label": 1, "entity": "Mirrors", "predicate": "function", "object": "reflect light", "domain": "science"}
+{"text": "Mirrors absorb light.", "label": 0, "entity": "Mirrors", "predicate": "function", "object": "absorb light", "domain": "science"}
+{"text": "Black objects absorb light.", "label": 1, "entity": "Black objects", "predicate": "property", "object": "absorb light", "domain": "science"}
+{"text": "Black objects reflect all light.", "label": 0, "entity": "Black objects", "predicate": "property", "object": "reflect all light", "domain": "science"}
+{"text": "Plants need sunlight to grow.", "label": 1, "entity": "Plants", "predicate": "requirement", "object": "sunlight to grow", "domain": "science"}
+{"text": "Plants grow better in darkness.", "label": 0, "entity": "Plants", "predicate": "preference", "object": "darkness", "domain": "science"}
+{"text": "Chlorophyll is green.", "label": 1, "entity": "Chlorophyll", "predicate": "color", "object": "green", "domain": "science"}
+{"text": "Chlorophyll is red.", "label": 0, "entity": "Chlorophyll", "predicate": "color", "object": "red", "domain": "science"}
+{"text": "Roots absorb water.", "label": 1, "entity": "Roots", "predicate": "function", "object": "absorb water", "domain": "science"}
+{"text": "Leaves absorb water.", "label": 0, "entity": "Leaves", "predicate": "function", "object": "absorb water", "domain": "science"}
+{"text": "Stems transport water.", "label": 1, "entity": "Stems", "predicate": "function", "object": "transport water", "domain": "science"}
+{"text": "Stems produce food.", "label": 0, "entity": "Stems", "predicate": "function", "object": "produce food", "domain": "science"}
+{"text": "Flowers attract pollinators.", "label": 1, "entity": "Flowers", "predicate": "function", "object": "attract pollinators", "domain": "science"}
+{"text": "Roots attract pollinators.", "label": 0, "entity": "Roots", "predicate": "function", "object": "attract pollinators", "domain": "science"}
+{"text": "Seeds contain embryos.", "label": 1, "entity": "Seeds", "predicate": "contain", "object": "embryos", "domain": "science"}
+{"text": "Leaves contain embryos.", "label": 0, "entity": "Leaves", "predicate": "contain", "object": "embryos", "domain": "science"}
+{"text": "Mammals are warm-blooded.", "label": 1, "entity": "Mammals", "predicate": "temperature_regulation", "object": "warm-blooded", "domain": "science"}
+{"text": "Mammals are cold-blooded.", "label": 0, "entity": "Mammals", "predicate": "temperature_regulation", "object": "cold-blooded", "domain": "science"}
+{"text": "Reptiles are cold-blooded.", "label": 1, "entity": "Reptiles", "predicate": "temperature_regulation", "object": "cold-blooded", "domain": "science"}
+{"text": "Reptiles are warm-blooded.", "label": 0, "entity": "Reptiles", "predicate": "temperature_regulation", "object": "warm-blooded", "domain": "science"}
+{"text": "Birds have hollow bones.", "label": 1, "entity": "Birds", "predicate": "bone_structure", "object": "hollow bones", "domain": "science"}
+{"text": "Birds have solid bones.", "label": 0, "entity": "Birds", "predicate": "bone_structure", "object": "solid bones", "domain": "science"}
+{"text": "Fish breathe through gills.", "label": 1, "entity": "Fish", "predicate": "breathing", "object": "through gills", "domain": "science"}
+{"text": "Fish breathe through lungs.", "label": 0, "entity": "Fish", "predicate": "breathing", "object": "through lungs", "domain": "science"}
+{"text": "Amphibians live on land and water.", "label": 1, "entity": "Amphibians", "predicate": "habitat", "object": "land and water", "domain": "science"}
+{"text": "Amphibians live only in water.", "label": 0, "entity": "Amphibians", "predicate": "habitat", "object": "only in water", "domain": "science"}
+{"text": "Insects have six legs.", "label": 1, "entity": "Insects", "predicate": "legs", "object": "6", "domain": "science"}
+{"text": "Insects have eight legs.", "label": 0, "entity": "Insects", "predicate": "legs", "object": "8", "domain": "science"}
+{"text": "Spiders have eight legs.", "label": 1, "entity": "Spiders", "predicate": "legs", "object": "8", "domain": "science"}
+{"text": "Spiders have six legs.", "label": 0, "entity": "Spiders", "predicate": "legs", "object": "6", "domain": "science"}
+{"text": "Butterflies undergo metamorphosis.", "label": 1, "entity": "Butterflies", "predicate": "development", "object": "undergo metamorphosis", "domain": "science"}
+{"text": "Butterflies are born with wings.", "label": 0, "entity": "Butterflies", "predicate": "development", "object": "born with wings", "domain": "science"}
+{"text": "Bats are mammals.", "label": 1, "entity": "Bats", "predicate": "classification", "object": "mammals", "domain": "science"}
+{"text": "Bats are birds.", "label": 0, "entity": "Bats", "predicate": "classification", "object": "birds", "domain": "science"}
+{"text": "Whales are mammals.", "label": 1, "entity": "Whales", "predicate": "classification", "object": "mammals", "domain": "science"}
+{"text": "Whales are fish.", "label": 0, "entity": "Whales", "predicate": "classification", "object": "fish", "domain": "science"}
+{"text": "Dolphins are mammals.", "label": 1, "entity": "Dolphins", "predicate": "classification", "object": "mammals", "domain": "science"}
+{"text": "Dolphins are fish.", "label": 0, "entity": "Dolphins", "predicate": "classification", "object": "fish", "domain": "science"}
+{"text": "Penguins are birds.", "label": 1, "entity": "Penguins", "predicate": "classification", "object": "birds", "domain": "science"}
+{"text": "Penguins are mammals.", "label": 0, "entity": "Penguins", "predicate": "classification", "object": "mammals", "domain": "science"}
+{"text": "Sharks are fish.", "label": 1, "entity": "Sharks", "predicate": "classification", "object": "fish", "domain": "science"}
+{"text": "Sharks are mammals.", "label": 0, "entity": "Sharks", "predicate": "classification", "object": "mammals", "domain": "science"}
+{"text": "Coral reefs are made by animals.", "label": 1, "entity": "Coral reefs", "predicate": "created_by", "object": "animals", "domain": "science"}
+{"text": "Coral reefs are made by plants.", "label": 0, "entity": "Coral reefs", "predicate": "created_by", "object": "plants", "domain": "science"}
+{"text": "Mushrooms are fungi.", "label": 1, "entity": "Mushrooms", "predicate": "classification", "object": "fungi", "domain": "science"}
+{"text": "Mushrooms are plants.", "label": 0, "entity": "Mushrooms", "predicate": "classification", "object": "plants", "domain": "science"}
+{"text": "Bacteria are single-celled.", "label": 1, "entity": "Bacteria", "predicate": "structure", "object": "single-celled", "domain": "science"}
+{"text": "Bacteria are multi-celled.", "label": 0, "entity": "Bacteria", "predicate": "structure", "object": "multi-celled", "domain": "science"}
+{"text": "Viruses need hosts to reproduce.", "label": 1, "entity": "Viruses", "predicate": "reproduction", "object": "need hosts", "domain": "science"}
+{"text": "Viruses reproduce independently.", "label": 0, "entity": "Viruses", "predicate": "reproduction", "object": "independently", "domain": "science"}
+{"text": "DNA is double-stranded.", "label": 1, "entity": "DNA", "predicate": "structure", "object": "double-stranded", "domain": "science"}
+{"text": "DNA is single-stranded.", "label": 0, "entity": "DNA", "predicate": "structure", "object": "single-stranded", "domain": "science"}
+{"text": "Genes are made of DNA.", "label": 1, "entity": "Genes", "predicate": "composition", "object": "DNA", "domain": "science"}
+{"text": "Genes are made of proteins.", "label": 0, "entity": "Genes", "predicate": "composition", "object": "proteins", "domain": "science"}
+{"text": "Chromosomes contain genes.", "label": 1, "entity": "Chromosomes", "predicate": "contain", "object": "genes", "domain": "science"}
+{"text": "Genes contain chromosomes.", "label": 0, "entity": "Genes", "predicate": "contain", "object": "chromosomes", "domain": "science"}
+{"text": "Evolution occurs over time.", "label": 1, "entity": "Evolution", "predicate": "process", "object": "occurs over time", "domain": "science"}
+{"text": "Evolution happens instantly.", "label": 0, "entity": "Evolution", "predicate": "process", "object": "happens instantly", "domain": "science"}
+{"text": "Natural selection favors survival.", "label": 1, "entity": "Natural selection", "predicate": "favors", "object": "survival", "domain": "science"}
+{"text": "Natural selection favors weakness.", "label": 0, "entity": "Natural selection", "predicate": "favors", "object": "weakness", "domain": "science"}
+{"text": "Fossils are preserved remains.", "label": 1, "entity": "Fossils", "predicate": "definition", "object": "preserved remains", "domain": "science"}
+{"text": "Fossils are living organisms.", "label": 0, "entity": "Fossils", "predicate": "definition", "object": "living organisms", "domain": "science"}
+{"text": "Dinosaurs are extinct.", "label": 1, "entity": "Dinosaurs", "predicate": "status", "object": "extinct", "domain": "science"}
+{"text": "Dinosaurs still exist.", "label": 0, "entity": "Dinosaurs", "predicate": "status", "object": "still exist", "domain": "science"}
+{"text": "Birds evolved from dinosaurs.", "label": 1, "entity": "Birds", "predicate": "evolution", "object": "from dinosaurs", "domain": "science"}
+{"text": "Dinosaurs evolved from birds.", "label": 0, "entity": "Dinosaurs", "predicate": "evolution", "object": "from birds", "domain": "science"}
+{"text": "The brain controls the nervous system.", "label": 1, "entity": "Brain", "predicate": "function", "object": "controls nervous system", "domain": "science"}
+{"text": "The heart controls the nervous system.", "label": 0, "entity": "Heart", "predicate": "function", "object": "controls nervous system", "domain": "science"}
+{"text": "The heart pumps blood.", "label": 1, "entity": "Heart", "predicate": "function", "object": "pumps blood", "domain": "science"}
+{"text": "The lungs pump blood.", "label": 0, "entity": "Lungs", "predicate": "function", "object": "pump blood", "domain": "science"}
+{"text": "Lungs exchange oxygen and CO2.", "label": 1, "entity": "Lungs", "predicate": "function", "object": "exchange oxygen and CO2", "domain": "science"}
+{"text": "Kidneys exchange oxygen and CO2.", "label": 0, "entity": "Kidneys", "predicate": "function", "object": "exchange oxygen and CO2", "domain": "science"}
+{"text": "Kidneys filter blood.", "label": 1, "entity": "Kidneys", "predicate": "function", "object": "filter blood", "domain": "science"}
+{"text": "Liver filters air.", "label": 0, "entity": "Liver", "predicate": "function", "object": "filters air", "domain": "science"}
+{"text": "The liver detoxifies blood.", "label": 1, "entity": "Liver", "predicate": "function", "object": "detoxifies blood", "domain": "science"}
+{"text": "The stomach detoxifies blood.", "label": 0, "entity": "Stomach", "predicate": "function", "object": "detoxifies blood", "domain": "science"}
+{"text": "The stomach digests food.", "label": 1, "entity": "Stomach", "predicate": "function", "object": "digests food", "domain": "science"}
+{"text": "The brain digests food.", "label": 0, "entity": "Brain", "predicate": "function", "object": "digests food", "domain": "science"}
+{"text": "Muscles enable movement.", "label": 1, "entity": "Muscles", "predicate": "function", "object": "enable movement", "domain": "science"}
+{"text": "Bones enable movement.", "label": 0, "entity": "Bones", "predicate": "function", "object": "enable movement", "domain": "science"}
+{"text": "Bones provide structure.", "label": 1, "entity": "Bones", "predicate": "function", "object": "provide structure", "domain": "science"}
+{"text": "Muscles provide structure.", "label": 0, "entity": "Muscles", "predicate": "function", "object": "provide structure", "domain": "science"}
+{"text": "Skin is the largest organ.", "label": 1, "entity": "Skin", "predicate": "distinction", "object": "largest organ", "domain": "science"}
+{"text": "The liver is the largest organ.", "label": 0, "entity": "Liver", "predicate": "distinction", "object": "largest organ", "domain": "science"}
+{"text": "Blood carries oxygen.", "label": 1, "entity": "Blood", "predicate": "function", "object": "carries oxygen", "domain": "science"}
+{"text": "Saliva carries oxygen.", "label": 0, "entity": "Saliva", "predicate": "function", "object": "carries oxygen", "domain": "science"}
+{"text": "Red blood cells carry oxygen.", "label": 1, "entity": "Red blood cells", "predicate": "function", "object": "carry oxygen", "domain": "science"}
+{"text": "White blood cells carry oxygen.", "label": 0, "entity": "White blood cells", "predicate": "function", "object": "carry oxygen", "domain": "science"}
+{"text": "White blood cells fight infection.", "label": 1, "entity": "White blood cells", "predicate": "function", "object": "fight infection", "domain": "science"}
+{"text": "Red blood cells fight infection.", "label": 0, "entity": "Red blood cells", "predicate": "function", "object": "fight infection", "domain": "science"}
+{"text": "Platelets help blood clot.", "label": 1, "entity": "Platelets", "predicate": "function", "object": "help blood clot", "domain": "science"}
+{"text": "Plasma helps blood clot.", "label": 0, "entity": "Plasma", "predicate": "function", "object": "helps blood clot", "domain": "science"}
+{"text": "The immune system protects from disease.", "label": 1, "entity": "Immune system", "predicate": "function", "object": "protects from disease", "domain": "science"}
+{"text": "The digestive system protects from disease.", "label": 0, "entity": "Digestive system", "predicate": "function", "object": "protects from disease", "domain": "science"}
+{"text": "Antibodies are Y-shaped.", "label": 1, "entity": "Antibodies", "predicate": "shape", "object": "Y-shaped", "domain": "science"}
+{"text": "Antibodies are X-shaped.", "label": 0, "entity": "Antibodies", "predicate": "shape", "object": "X-shaped", "domain": "science"}
+{"text": "Hormones are chemical messengers.", "label": 1, "entity": "Hormones", "predicate": "function", "object": "chemical messengers", "domain": "science"}
+{"text": "Hormones are electrical signals.", "label": 0, "entity": "Hormones", "predicate": "function", "object": "electrical signals", "domain": "science"}
+{"text": "Neurons transmit electrical signals.", "label": 1, "entity": "Neurons", "predicate": "function", "object": "transmit electrical signals", "domain": "science"}
+{"text": "Neurons transmit light signals.", "label": 0, "entity": "Neurons", "predicate": "function", "object": "transmit light signals", "domain": "science"}
+{"text": "The pupil controls light entry.", "label": 1, "entity": "Pupil", "predicate": "function", "object": "controls light entry", "domain": "science"}
+{"text": "The iris sees images.", "label": 0, "entity": "Iris", "predicate": "function", "object": "sees images", "domain": "science"}
+{"text": "The retina detects light.", "label": 1, "entity": "Retina", "predicate": "function", "object": "detects light", "domain": "science"}
+{"text": "The cornea detects light.", "label": 0, "entity": "Cornea", "predicate": "function", "object": "detects light", "domain": "science"}
+{"text": "Taste buds detect flavors.", "label": 1, "entity": "Taste buds", "predicate": "function", "object": "detect flavors", "domain": "science"}
+{"text": "Hair follicles detect flavors.", "label": 0, "entity": "Hair follicles", "predicate": "function", "object": "detect flavors", "domain": "science"}
+{"text": "The ear has three parts.", "label": 1, "entity": "Ear", "predicate": "structure", "object": "three parts", "domain": "science"}
+{"text": "The ear has two parts.", "label": 0, "entity": "Ear", "predicate": "structure", "object": "two parts", "domain": "science"}
+{"text": "Sound waves vibrate the eardrum.", "label": 1, "entity": "Sound waves", "predicate": "effect", "object": "vibrate eardrum", "domain": "science"}
+{"text": "Light waves vibrate the eardrum.", "label": 0, "entity": "Light waves", "predicate": "effect", "object": "vibrate eardrum", "domain": "science"}
+{"text": "Smell receptors are in the nose.", "label": 1, "entity": "Smell receptors", "predicate": "location", "object": "in the nose", "domain": "science"}
+{"text": "Smell receptors are in the mouth.", "label": 0, "entity": "Smell receptors", "predicate": "location", "object": "in the mouth", "domain": "science"}
+{"text": "Touch receptors are in skin.", "label": 1, "entity": "Touch receptors", "predicate": "location", "object": "in skin", "domain": "science"}
+{"text": "Touch receptors are in bones.", "label": 0, "entity": "Touch receptors", "predicate": "location", "object": "in bones", "domain": "science"}
+{"text": "Pain warns of danger.", "label": 1, "entity": "Pain", "predicate": "function", "object": "warns of danger", "domain": "science"}
+{"text": "Pain causes injury.", "label": 0, "entity": "Pain", "predicate": "function", "object": "causes injury", "domain": "science"}
+{"text": "Reflexes are automatic responses.", "label": 1, "entity": "Reflexes", "predicate": "nature", "object": "automatic responses", "domain": "science"}
+{"text": "Reflexes are conscious decisions.", "label": 0, "entity": "Reflexes", "predicate": "nature", "object": "conscious decisions", "domain": "science"}
+{"text": "Sleep helps memory consolidation.", "label": 1, "entity": "Sleep", "predicate": "function", "object": "memory consolidation", "domain": "science"}
+{"text": "Sleep erases memories.", "label": 0, "entity": "Sleep", "predicate": "function", "object": "erases memories", "domain": "science"}
+{"text": "Dreams occur during REM sleep.", "label": 1, "entity": "Dreams", "predicate": "timing", "object": "during REM sleep", "domain": "science"}
+{"text": "Dreams only occur when awake.", "label": 0, "entity": "Dreams", "predicate": "timing", "object": "only when awake", "domain": "science"}
+{"text": "Calories measure energy.", "label": 1, "entity": "Calories", "predicate": "measure", "object": "energy", "domain": "science"}
+{"text": "Calories measure weight.", "label": 0, "entity": "Calories", "predicate": "measure", "object": "weight", "domain": "science"}
+{"text": "Proteins build muscle.", "label": 1, "entity": "Proteins", "predicate": "function", "object": "build muscle", "domain": "science"}
+{"text": "Sugars build muscle.", "label": 0, "entity": "Sugars", "predicate": "function", "object": "build muscle", "domain": "science"}
+{"text": "Vitamins are nutrients.", "label": 1, "entity": "Vitamins", "predicate": "classification", "object": "nutrients", "domain": "science"}
+{"text": "Vitamins are calories.", "label": 0, "entity": "Vitamins", "predicate": "classification", "object": "calories", "domain": "science"}
+{"text": "Minerals come from food.", "label": 1, "entity": "Minerals", "predicate": "source", "object": "from food", "domain": "science"}
+{"text": "Minerals are made by the body.", "label": 0, "entity": "Minerals", "predicate": "source", "object": "made by body", "domain": "science"}
+{"text": "Water regulates body temperature.", "label": 1, "entity": "Water", "predicate": "function", "object": "regulates temperature", "domain": "science"}
+{"text": "Fat regulates body temperature.", "label": 0, "entity": "Fat", "predicate": "function", "object": "regulates temperature", "domain": "science"}
+{"text": "Fiber aids digestion.", "label": 1, "entity": "Fiber", "predicate": "function", "object": "aids digestion", "domain": "science"}
+{"text": "Fiber provides calories.", "label": 0, "entity": "Fiber", "predicate": "function", "object": "provides calories", "domain": "science"}
+{"text": "Exercise strengthens muscles.", "label": 1, "entity": "Exercise", "predicate": "effect", "object": "strengthens muscles", "domain": "science"}
+{"text": "Rest strengthens muscles.", "label": 0, "entity": "Rest", "predicate": "effect", "object": "strengthens muscles", "domain": "science"}
+{"text": "Stretching improves flexibility.", "label": 1, "entity": "Stretching", "predicate": "effect", "object": "improves flexibility", "domain": "science"}
+{"text": "Sitting improves flexibility.", "label": 0, "entity": "Sitting", "predicate": "effect", "object": "improves flexibility", "domain": "science"}
+{"text": "The Sun is a star.", "label": 1, "entity": "Sun", "predicate": "classification", "object": "star", "domain": "science"}
+{"text": "The Sun is a planet.", "label": 0, "entity": "Sun", "predicate": "classification", "object": "planet", "domain": "science"}
+{"text": "Stars produce light.", "label": 1, "entity": "Stars", "predicate": "property", "object": "produce light", "domain": "science"}
+{"text": "Planets produce light.", "label": 0, "entity": "Planets", "predicate": "property", "object": "produce light", "domain": "science"}
+{"text": "The Moon reflects sunlight.", "label": 1, "entity": "Moon", "predicate": "light_source", "object": "reflects sunlight", "domain": "science"}
+{"text": "The Moon produces its own light.", "label": 0, "entity": "Moon", "predicate": "light_source", "object": "produces own light", "domain": "science"}
+{"text": "Earth rotates on its axis.", "label": 1, "entity": "Earth", "predicate": "motion", "object": "rotates on axis", "domain": "science"}
+{"text": "Earth is stationary.", "label": 0, "entity": "Earth", "predicate": "motion", "object": "stationary", "domain": "science"}
+{"text": "A day is one rotation.", "label": 1, "entity": "Day", "predicate": "definition", "object": "one rotation", "domain": "science"}
+{"text": "A day is one orbit.", "label": 0, "entity": "Day", "predicate": "definition", "object": "one orbit", "domain": "science"}
+{"text": "A year is one orbit.", "label": 1, "entity": "Year", "predicate": "definition", "object": "one orbit", "domain": "science"}
+{"text": "A year is one rotation.", "label": 0, "entity": "Year", "predicate": "definition", "object": "one rotation", "domain": "science"}
+{"text": "Seasons are caused by Earth's tilt.", "label": 1, "entity": "Seasons", "predicate": "cause", "object": "Earth's tilt", "domain": "science"}
+{"text": "Seasons are caused by distance from Sun.", "label": 0, "entity": "Seasons", "predicate": "cause", "object": "distance from Sun", "domain": "science"}
+{"text": "The Moon has phases.", "label": 1, "entity": "Moon", "predicate": "property", "object": "has phases", "domain": "science"}
+{"text": "The Sun has phases.", "label": 0, "entity": "Sun", "predicate": "property", "object": "has phases", "domain": "science"}
+{"text": "Solar eclipses occur when Moon blocks Sun.", "label": 1, "entity": "Solar eclipse", "predicate": "cause", "object": "Moon blocks Sun", "domain": "science"}
+{"text": "Solar eclipses occur when Earth blocks Sun.", "label": 0, "entity": "Solar eclipse", "predicate": "cause", "object": "Earth blocks Sun", "domain": "science"}
+{"text": "Lunar eclipses occur when Earth blocks sunlight.", "label": 1, "entity": "Lunar eclipse", "predicate": "cause", "object": "Earth blocks sunlight", "domain": "science"}
+{"text": "Lunar eclipses occur when Moon blocks Earth.", "label": 0, "entity": "Lunar eclipse", "predicate": "cause", "object": "Moon blocks Earth", "domain": "science"}
+{"text": "Gravity keeps planets in orbit.", "label": 1, "entity": "Gravity", "predicate": "effect", "object": "keeps planets in orbit", "domain": "science"}
+{"text": "Magnetism keeps planets in orbit.", "label": 0, "entity": "Magnetism", "predicate": "effect", "object": "keeps planets in orbit", "domain": "science"}
+{"text": "Comets have tails.", "label": 1, "entity": "Comets", "predicate": "feature", "object": "have tails", "domain": "science"}
+{"text": "Asteroids have tails.", "label": 0, "entity": "Asteroids", "predicate": "feature", "object": "have tails", "domain": "science"}
+{"text": "Meteors burn up in atmosphere.", "label": 1, "entity": "Meteors", "predicate": "behavior", "object": "burn up in atmosphere", "domain": "science"}
+{"text": "Meteors burn up in space.", "label": 0, "entity": "Meteors", "predicate": "behavior", "object": "burn up in space", "domain": "science"}
+{"text": "Black holes have strong gravity.", "label": 1, "entity": "Black holes", "predicate": "property", "object": "strong gravity", "domain": "science"}
+{"text": "Black holes have no gravity.", "label": 0, "entity": "Black holes", "predicate": "property", "object": "no gravity", "domain": "science"}
+{"text": "Light cannot escape black holes.", "label": 1, "entity": "Light", "predicate": "behavior", "object": "cannot escape black holes", "domain": "science"}
+{"text": "Light easily escapes black holes.", "label": 0, "entity": "Light", "predicate": "behavior", "object": "easily escapes black holes", "domain": "science"}
+{"text": "Galaxies contain billions of stars.", "label": 1, "entity": "Galaxies", "predicate": "contain", "object": "billions of stars", "domain": "science"}
+{"text": "Galaxies contain dozens of stars.", "label": 0, "entity": "Galaxies", "predicate": "contain", "object": "dozens of stars", "domain": "science"}
+{"text": "The Milky Way is our galaxy.", "label": 1, "entity": "Milky Way", "predicate": "identity", "object": "our galaxy", "domain": "science"}
+{"text": "Andromeda is our galaxy.", "label": 0, "entity": "Andromeda", "predicate": "identity", "object": "our galaxy", "domain": "science"}
+{"text": "Space is mostly empty.", "label": 1, "entity": "Space", "predicate": "property", "object": "mostly empty", "domain": "science"}
+{"text": "Space is densely packed.", "label": 0, "entity": "Space", "predicate": "property", "object": "densely packed", "domain": "science"}
+{"text": "Astronauts experience weightlessness.", "label": 1, "entity": "Astronauts", "predicate": "experience", "object": "weightlessness", "domain": "science"}
+{"text": "Astronauts experience double gravity.", "label": 0, "entity": "Astronauts", "predicate": "experience", "object": "double gravity", "domain": "science"}
+{"text": "Rockets use thrust to escape Earth.", "label": 1, "entity": "Rockets", "predicate": "use", "object": "thrust to escape", "domain": "science"}
+{"text": "Rockets use wings to escape Earth.", "label": 0, "entity": "Rockets", "predicate": "use", "object": "wings to escape", "domain": "science"}
+{"text": "Satellites orbit Earth.", "label": 1, "entity": "Satellites", "predicate": "motion", "object": "orbit Earth", "domain": "science"}
+{"text": "Satellites float stationary.", "label": 0, "entity": "Satellites", "predicate": "motion", "object": "float stationary", "domain": "science"}
+{"text": "GPS uses satellites.", "label": 1, "entity": "GPS", "predicate": "technology", "object": "uses satellites", "domain": "science"}
+{"text": "GPS uses underground cables.", "label": 0, "entity": "GPS", "predicate": "technology", "object": "underground cables", "domain": "science"}
+{"text": "Radio waves travel at light speed.", "label": 1, "entity": "Radio waves", "predicate": "speed", "object": "light speed", "domain": "science"}
+{"text": "Radio waves travel at sound speed.", "label": 0, "entity": "Radio waves", "predicate": "speed", "object": "sound speed", "domain": "science"}
+{"text": "X-rays can penetrate soft tissue.", "label": 1, "entity": "X-rays", "predicate": "property", "object": "penetrate soft tissue", "domain": "science"}
+{"text": "X-rays cannot penetrate anything.", "label": 0, "entity": "X-rays", "predicate": "property", "object": "cannot penetrate anything", "domain": "science"}
+{"text": "Microwaves heat food.", "label": 1, "entity": "Microwaves", "predicate": "function", "object": "heat food", "domain": "science"}
+{"text": "Microwaves cool food.", "label": 0, "entity": "Microwaves", "predicate": "function", "object": "cool food", "domain": "science"}
+{"text": "Lasers produce focused light.", "label": 1, "entity": "Lasers", "predicate": "produce", "object": "focused light", "domain": "science"}
+{"text": "Lasers produce scattered light.", "label": 0, "entity": "Lasers", "predicate": "produce", "object": "scattered light", "domain": "science"}
+{"text": "Fiber optics use light.", "label": 1, "entity": "Fiber optics", "predicate": "technology", "object": "use light", "domain": "science"}
+{"text": "Fiber optics use electricity.", "label": 0, "entity": "Fiber optics", "predicate": "technology", "object": "use electricity", "domain": "science"}
+{"text": "Computers use binary code.", "label": 1, "entity": "Computers", "predicate": "system", "object": "binary code", "domain": "science"}
+{"text": "Computers use decimal code.", "label": 0, "entity": "Computers", "predicate": "system", "object": "decimal code", "domain": "science"}
+{"text": "Binary uses 0 and 1.", "label": 1, "entity": "Binary", "predicate": "uses", "object": "0 and 1", "domain": "science"}
+{"text": "Binary uses 0 through 9.", "label": 0, "entity": "Binary", "predicate": "uses", "object": "0 through 9", "domain": "science"}
+{"text": "RAM is temporary memory.", "label": 1, "entity": "RAM", "predicate": "type", "object": "temporary memory", "domain": "science"}
+{"text": "RAM is permanent memory.", "label": 0, "entity": "RAM", "predicate": "type", "object": "permanent memory", "domain": "science"}
+{"text": "Hard drives store data.", "label": 1, "entity": "Hard drives", "predicate": "function", "object": "store data", "domain": "science"}
+{"text": "Monitors store data.", "label": 0, "entity": "Monitors", "predicate": "function", "object": "store data", "domain": "science"}
+{"text": "CPUs process information.", "label": 1, "entity": "CPUs", "predicate": "function", "object": "process information", "domain": "science"}
+{"text": "Keyboards process information.", "label": 0, "entity": "Keyboards", "predicate": "function", "object": "process information", "domain": "science"}
+{"text": "The internet uses networks.", "label": 1, "entity": "Internet", "predicate": "infrastructure", "object": "uses networks", "domain": "science"}
+{"text": "The internet uses one computer.", "label": 0, "entity": "Internet", "predicate": "infrastructure", "object": "one computer", "domain": "science"}
+{"text": "WiFi uses radio waves.", "label": 1, "entity": "WiFi", "predicate": "technology", "object": "radio waves", "domain": "science"}
+{"text": "WiFi uses sound waves.", "label": 0, "entity": "WiFi", "predicate": "technology", "object": "sound waves", "domain": "science"}
+{"text": "Bluetooth is wireless.", "label": 1, "entity": "Bluetooth", "predicate": "type", "object": "wireless", "domain": "science"}
+{"text": "Bluetooth requires cables.", "label": 0, "entity": "Bluetooth", "predicate": "requirement", "object": "cables", "domain": "science"}
+{"text": "Solar panels convert sunlight to electricity.", "label": 1, "entity": "Solar panels", "predicate": "function", "object": "convert sunlight to electricity", "domain": "science"}
+{"text": "Solar panels convert darkness to electricity.", "label": 0, "entity": "Solar panels", "predicate": "function", "object": "convert darkness to electricity", "domain": "science"}
+{"text": "Wind turbines generate electricity.", "label": 1, "entity": "Wind turbines", "predicate": "function", "object": "generate electricity", "domain": "science"}
+{"text": "Wind turbines consume electricity.", "label": 0, "entity": "Wind turbines", "predicate": "function", "object": "consume electricity", "domain": "science"}
+{"text": "Batteries store electrical energy.", "label": 1, "entity": "Batteries", "predicate": "function", "object": "store electrical energy", "domain": "science"}
+{"text": "Batteries create electrical energy.", "label": 0, "entity": "Batteries", "predicate": "function", "object": "create electrical energy", "domain": "science"}
+{"text": "Nuclear power splits atoms.", "label": 1, "entity": "Nuclear power", "predicate": "process", "object": "splits atoms", "domain": "science"}
+{"text": "Nuclear power combines molecules.", "label": 0, "entity": "Nuclear power", "predicate": "process", "object": "combines molecules", "domain": "science"}
+{"text": "Fossil fuels release carbon.", "label": 1, "entity": "Fossil fuels", "predicate": "effect", "object": "release carbon", "domain": "science"}
+{"text": "Fossil fuels absorb carbon.", "label": 0, "entity": "Fossil fuels", "predicate": "effect", "object": "absorb carbon", "domain": "science"}
+{"text": "Greenhouse gases trap heat.", "label": 1, "entity": "Greenhouse gases", "predicate": "effect", "object": "trap heat", "domain": "science"}
+{"text": "Greenhouse gases release heat.", "label": 0, "entity": "Greenhouse gases", "predicate": "effect", "object": "release heat", "domain": "science"}
+{"text": "Climate change is happening.", "label": 1, "entity": "Climate change", "predicate": "status", "object": "happening", "domain": "science"}
+{"text": "Climate never changes.", "label": 0, "entity": "Climate", "predicate": "property", "object": "never changes", "domain": "science"}
+{"text": "Ice caps are melting.", "label": 1, "entity": "Ice caps", "predicate": "status", "object": "melting", "domain": "science"}
+{"text": "Ice caps are growing.", "label": 0, "entity": "Ice caps", "predicate": "status", "object": "growing", "domain": "science"}
+{"text": "Sea levels are rising.", "label": 1, "entity": "Sea levels", "predicate": "trend", "object": "rising", "domain": "science"}
+{"text": "Sea levels are falling.", "label": 0, "entity": "Sea levels", "predicate": "trend", "object": "falling", "domain": "science"}
+{"text": "Recycling reduces waste.", "label": 1, "entity": "Recycling", "predicate": "effect", "object": "reduces waste", "domain": "science"}
+{"text": "Recycling increases waste.", "label": 0, "entity": "Recycling", "predicate": "effect", "object": "increases waste", "domain": "science"}
+{"text": "Composting creates soil.", "label": 1, "entity": "Composting", "predicate": "result", "object": "creates soil", "domain": "science"}
+{"text": "Composting creates plastic.", "label": 0, "entity": "Composting", "predicate": "result", "object": "creates plastic", "domain": "science"}
+{"text": "Plastic takes centuries to decompose.", "label": 1, "entity": "Plastic", "predicate": "decomposition", "object": "takes centuries", "domain": "science"}
+{"text": "Plastic decomposes in days.", "label": 0, "entity": "Plastic", "predicate": "decomposition", "object": "in days", "domain": "science"}
+{"text": "Trees produce oxygen.", "label": 1, "entity": "Trees", "predicate": "produce", "object": "oxygen", "domain": "science"}
+{"text": "Trees consume oxygen only.", "label": 0, "entity": "Trees", "predicate": "consume", "object": "oxygen only", "domain": "science"}
+{"text": "Rainforests have high biodiversity.", "label": 1, "entity": "Rainforests", "predicate": "property", "object": "high biodiversity", "domain": "science"}
+{"text": "Deserts have highest biodiversity.", "label": 0, "entity": "Deserts", "predicate": "property", "object": "highest biodiversity", "domain": "science"}
+{"text": "Wetlands filter water.", "label": 1, "entity": "Wetlands", "predicate": "function", "object": "filter water", "domain": "science"}
+{"text": "Wetlands pollute water.", "label": 0, "entity": "Wetlands", "predicate": "function", "object": "pollute water", "domain": "science"}
+{"text": "Ozone protects from UV rays.", "label": 1, "entity": "Ozone", "predicate": "function", "object": "protects from UV", "domain": "science"}
+{"text": "Ozone creates UV rays.", "label": 0, "entity": "Ozone", "predicate": "function", "object": "creates UV rays", "domain": "science"}
+{"text": "Acid rain harms ecosystems.", "label": 1, "entity": "Acid rain", "predicate": "effect", "object": "harms ecosystems", "domain": "science"}
+{"text": "Acid rain helps plants grow.", "label": 0, "entity": "Acid rain", "predicate": "effect", "object": "helps plants grow", "domain": "science"}
+{"text": "Earthquakes occur at plate boundaries.", "label": 1, "entity": "Earthquakes", "predicate": "location", "object": "plate boundaries", "domain": "science"}
+{"text": "Earthquakes occur in space.", "label": 0, "entity": "Earthquakes", "predicate": "location", "object": "in space", "domain": "science"}
+{"text": "Volcanoes erupt molten rock.", "label": 1, "entity": "Volcanoes", "predicate": "erupt", "object": "molten rock", "domain": "science"}
+{"text": "Volcanoes erupt ice.", "label": 0, "entity": "Volcanoes", "predicate": "erupt", "object": "ice", "domain": "science"}
+{"text": "Tsunamis are giant waves.", "label": 1, "entity": "Tsunamis", "predicate": "definition", "object": "giant waves", "domain": "science"}
+{"text": "Tsunamis are underground fires.", "label": 0, "entity": "Tsunamis", "predicate": "definition", "object": "underground fires", "domain": "science"}
+{"text": "Hurricanes form over warm water.", "label": 1, "entity": "Hurricanes", "predicate": "formation", "object": "over warm water", "domain": "science"}
+{"text": "Hurricanes form over ice.", "label": 0, "entity": "Hurricanes", "predicate": "formation", "object": "over ice", "domain": "science"}
+{"text": "Tornadoes are spinning air.", "label": 1, "entity": "Tornadoes", "predicate": "definition", "object": "spinning air", "domain": "science"}
+{"text": "Tornadoes are straight winds.", "label": 0, "entity": "Tornadoes", "predicate": "definition", "object": "straight winds", "domain": "science"}
+{"text": "Lightning is electrical discharge.", "label": 1, "entity": "Lightning", "predicate": "definition", "object": "electrical discharge", "domain": "science"}
+{"text": "Lightning is frozen rain.", "label": 0, "entity": "Lightning", "predicate": "definition", "object": "frozen rain", "domain": "science"}
+{"text": "Thunder follows lightning.", "label": 1, "entity": "Thunder", "predicate": "timing", "object": "follows lightning", "domain": "science"}
+{"text": "Thunder comes before lightning.", "label": 0, "entity": "Thunder", "predicate": "timing", "object": "before lightning", "domain": "science"}

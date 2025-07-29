@@ -1,0 +1,172 @@
+{
+  "authority": {
+    "0": {
+      "correct": 751,
+      "total": 934,
+      "accuracy": 0.80406852248394
+    },
+    "1": {
+      "correct": 789,
+      "total": 934,
+      "accuracy": 0.8447537473233405
+    },
+    "2": {
+      "correct": 689,
+      "total": 934,
+      "accuracy": 0.7376873661670236
+    }
+  },
+  "consensus": {
+    "0": {
+      "correct": 714,
+      "total": 934,
+      "accuracy": 0.7644539614561028
+    },
+    "1": {
+      "correct": 693,
+      "total": 934,
+      "accuracy": 0.7419700214132763
+    },
+    "2": {
+      "correct": 561,
+      "total": 934,
+      "accuracy": 0.6006423982869379
+    }
+  },
+  "emotion_pos": {
+    "0": {
+      "correct": 773,
+      "total": 934,
+      "accuracy": 0.8276231263383298
+    },
+    "1": {
+      "correct": 756,
+      "total": 934,
+      "accuracy": 0.8094218415417559
+    },
+    "2": {
+      "correct": 758,
+      "total": 934,
+      "accuracy": 0.8115631691648822
+    }
+  },
+  "emotion_neg": {
+    "0": {
+      "correct": 630,
+      "total": 934,
+      "accuracy": 0.6745182012847966
+    },
+    "1": {
+      "correct": 658,
+      "total": 934,
+      "accuracy": 0.7044967880085653
+    },
+    "2": {
+      "correct": 592,
+      "total": 934,
+      "accuracy": 0.6338329764453962
+    }
+  },
+  "urgency": {
+    "0": {
+      "correct": 782,
+      "total": 934,
+      "accuracy": 0.8372591006423983
+    },
+    "1": {
+      "correct": 792,
+      "total": 934,
+      "accuracy": 0.8479657387580299
+    },
+    "2": {
+      "correct": 687,
+      "total": 934,
+      "accuracy": 0.7355460385438972
+    }
+  },
+  "moralizing": {
+    "0": {
+      "correct": 798,
+      "total": 934,
+      "accuracy": 0.854389721627409
+    },
+    "1": {
+      "correct": 794,
+      "total": 934,
+      "accuracy": 0.8501070663811563
+    },
+    "2": {
+      "correct": 767,
+      "total": 934,
+      "accuracy": 0.8211991434689507
+    }
+  },
+  "certainty": {
+    "0": {
+      "correct": 844,
+      "total": 934,
+      "accuracy": 0.9036402569593148
+    },
+    "1": {
+      "correct": 743,
+      "total": 934,
+      "accuracy": 0.7955032119914347
+    },
+    "2": {
+      "correct": 805,
+      "total": 934,
+      "accuracy": 0.8618843683083511
+    }
+  },
+  "hedging": {
+    "0": {
+      "correct": 837,
+      "total": 934,
+      "accuracy": 0.8961456102783726
+    },
+    "1": {
+      "correct": 847,
+      "total": 934,
+      "accuracy": 0.9068522483940042
+    },
+    "2": {
+      "correct": 799,
+      "total": 934,
+      "accuracy": 0.8554603854389722
+    }
+  },
+  "ad_hominem": {
+    "0": {
+      "correct": 756,
+      "total": 934,
+      "accuracy": 0.8094218415417559
+    },
+    "1": {
+      "correct": 733,
+      "total": 934,
+      "accuracy": 0.784796573875803
+    },
+    "2": {
+      "correct": 757,
+      "total": 934,
+      "accuracy": 0.8104925053533191
+    }
+  },
+  "politeness": {
+    "0": {
+      "correct": 820,
+      "total": 934,
+      "accuracy": 0.8779443254817987
+    },
+    "1": {
+      "correct": 729,
+      "total": 934,
+      "accuracy": 0.7805139186295503
+    },
+    "2": {
+      "correct": 702,
+      "total": 934,
+      "accuracy": 0.7516059957173448
+    }
+  }
+}
